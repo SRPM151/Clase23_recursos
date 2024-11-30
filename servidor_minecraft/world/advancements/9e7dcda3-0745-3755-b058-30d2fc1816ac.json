@@ -374,6 +374,7 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-11-25 02:39:53 +0000",
+      "opened_shulker": "2024-11-30 05:59:11 +0000",
       "opened_chest": "2024-11-22 07:04:36 +0000"
     },
     "done": false
@@ -11411,6 +11412,24 @@
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-11-29 07:46:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-11-30 05:47:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1shulker": {
+    "criteria": {
+      "opened_shulker": "2024-11-30 05:59:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_shovel_repairing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-11-30 06:02:45 +0000"
     },
     "done": true
   },
