@@ -902,3 +902,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [30Nov2024 05:09:30.328] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [30Nov2024 05:09:30.330] [Server thread/WARN] [ModernFix/]: Dedicated server took 63.322 seconds to load
 [30Nov2024 05:09:30.512] [Server thread/INFO] [com.yogpc.qp.integration.ic2.QuarryIC2Integration/]: Set QuarryPlus ic2 integration to false
+[30Nov2024 05:21:58.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.34.100.58:40653] logged in with entity id 209 at (97.99835801213356, 81.5, 124.70383794661973)
+[30Nov2024 05:21:59.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[30Nov2024 05:21:59.606] [Server thread/INFO] [Jade/]: Syncing config to Lex_Ssuid (9e7dcda3-0745-3755-b058-30d2fc1816ac)
+[30Nov2024 05:21:59.623] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[30Nov2024 05:21:59.624] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[30Nov2024 05:21:59.629] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[30Nov2024 05:22:00.245] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: false
+[30Nov2024 05:22:03.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[30Nov2024 05:22:38.897] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[30Nov2024 05:22:38.897] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md0ac9aa$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[30Nov2024 05:28:41.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Nov2024 05:30:47.639] [Server thread/INFO] [Scaling Health/]: Blight Strider has died

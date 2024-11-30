@@ -10766,9 +10766,99 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_side_table": {
+  "supplementaries:recipes/slice_map": {
     "criteria": {
-      "has_crimson_side_table": "2024-11-29 06:58:15 +0000"
+      "has_map": "2024-11-29 05:45:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2024-11-29 05:45:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2024-11-29 05:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-11-29 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
+    "criteria": {
+      "has_items": "2024-11-29 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-11-29 05:59:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-29 06:17:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-11-29 06:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-29 06:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-29 06:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-11-29 06:27:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/mimicream_decomposing": {
+    "criteria": {
+      "has_mimicream": "2024-11-29 06:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-11-29 06:29:17 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/shulker_shell_decomposing": {
+    "criteria": {
+      "has_shulker_shell": "2024-11-29 06:29:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-11-29 06:44:14 +0000"
     },
     "done": true
   },
@@ -10778,27 +10868,39 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/warped_kitchen_counter": {
+  "biomancy:recipes/biomancy/decomposing/dragon_head_decomposing": {
     "criteria": {
-      "has_planks": "2024-11-29 07:27:20 +0000"
+      "has_dragon_head": "2024-11-29 06:46:23 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/warped_coffee_table": {
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
-      "has_planks": "2024-11-29 07:27:20 +0000"
+      "has_dark_oak_trapdoor": "2024-11-29 06:47:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2024-11-29 06:55:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/red_mushroom_decomposing": {
+    "criteria": {
+      "has_red_mushroom": "2024-11-29 06:58:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2024-11-29 06:58:15 +0000"
     },
     "done": true
   },
   "cfm:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_glazed_terracotta": {
-    "criteria": {
-      "has_pink_terracotta": "2024-11-29 07:04:36 +0000"
     },
     "done": true
   },
@@ -10820,18 +10922,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_warped": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/warped_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_corner_trim": {
     "criteria": {
       "has_crimson_corner_trim": "2024-11-29 06:58:15 +0000"
@@ -10841,6 +10931,234 @@
   "handcrafted:recipes/misc/crimson_cupboard": {
     "criteria": {
       "has_crimson_cupboard": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_crate": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_park_bench": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-11-29 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2024-11-29 07:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 07:21:08 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/creeper_head_decomposing": {
+    "criteria": {
+      "has_creeper_head": "2024-11-29 07:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-11-29 07:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-11-29 07:21:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-11-29 07:27:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-11-29 07:27:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 07:27:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-11-29 07:27:20 +0000"
     },
     "done": true
   },
@@ -10862,81 +11180,15 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2024-11-29 05:54:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2024-11-29 07:29:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2024-11-29 07:37:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_cartography_table": {
-    "criteria": {
-      "has_paper": "2024-11-29 06:17:00 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/mimicream_decomposing": {
-    "criteria": {
-      "has_mimicream": "2024-11-29 06:27:44 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_table": {
     "criteria": {
       "has_warped_table": "2024-11-29 07:27:20 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_coffee_table": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_dining_bench": {
-    "criteria": {
-      "has_crimson_dining_bench": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-11-29 06:29:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2024-11-29 07:29:25 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_nightstand": {
     "criteria": {
       "has_warped_nightstand": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2024-11-29 07:29:25 +0000"
     },
     "done": true
   },
@@ -10952,24 +11204,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2024-11-29 06:47:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/jungle_cabinet": {
-    "criteria": {
-      "has_jungle_trapdoor": "2024-11-29 06:55:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-11-29 07:37:45 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_warped": {
     "criteria": {
       "has_planks": "2024-11-29 07:27:20 +0000"
@@ -10982,27 +11216,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/creeper_head_decomposing": {
-    "criteria": {
-      "has_creeper_head": "2024-11-29 07:21:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_table": {
-    "criteria": {
-      "has_crimson_table": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_side_table": {
     "criteria": {
       "has_warped_side_table": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_desk": {
-    "criteria": {
-      "has_crimson_desk": "2024-11-29 06:58:15 +0000"
     },
     "done": true
   },
@@ -11018,33 +11234,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2024-11-29 07:21:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
-    "criteria": {
-      "has_creeper_head": "2024-11-29 07:21:09 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/red_mushroom_decomposing": {
-    "criteria": {
-      "has_red_mushroom": "2024-11-29 06:58:12 +0000"
     },
     "done": true
   },
@@ -11072,21 +11264,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_desk_cabinet": {
     "criteria": {
       "has_planks": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2024-11-29 05:45:32 +0000"
     },
     "done": true
   },
@@ -11102,81 +11282,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-11-29 07:46:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_nightstand": {
-    "criteria": {
-      "has_crimson_nightstand": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_counter": {
     "criteria": {
       "has_warped_counter": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 05:54:27 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2024-11-29 05:45:34 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/speed_up_belt": {
-    "criteria": {
-      "has_item": "2024-11-29 05:45:32 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/cosmic_cod": {
-    "criteria": {
-      "capsid": "2024-11-29 06:44:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/shulker_shell_decomposing": {
-    "criteria": {
-      "has_shulker_shell": "2024-11-29 06:29:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2024-11-29 07:21:08 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_couch": {
-    "criteria": {
-      "has_crimson_couch": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
-    "criteria": {
-      "has_items": "2024-11-29 05:54:27 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_pillar_trim": {
-    "criteria": {
-      "has_crimson_pillar_trim": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
     },
     "done": true
   },
@@ -11186,63 +11294,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-29 07:27:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2024-11-29 07:29:25 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_crimson": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_fancy_bed": {
-    "criteria": {
-      "has_crimson_fancy_bed": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_counter": {
-    "criteria": {
-      "has_crimson_counter": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2024-11-29 07:29:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_drawer": {
-    "criteria": {
-      "has_crimson_drawer": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
     },
     "done": true
   },
@@ -11258,69 +11318,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_crate": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2024-11-29 06:17:00 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_cupboard": {
     "criteria": {
       "has_warped_cupboard": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_desk": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-11-29 06:17:00 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_shelf": {
-    "criteria": {
-      "has_crimson_shelf": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-11-29 05:59:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_park_bench": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
     },
     "done": true
   },
@@ -11336,33 +11336,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_chair": {
-    "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_chair": {
-    "criteria": {
-      "has_crimson_chair": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/warped_chair": {
     "criteria": {
       "has_planks": "2024-11-29 07:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2024-11-29 07:44:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2024-11-29 06:27:39 +0000"
     },
     "done": true
   },
@@ -11372,45 +11348,69 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_bench": {
-    "criteria": {
-      "has_crimson_bench": "2024-11-29 06:58:15 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_drawer": {
     "criteria": {
       "has_warped_drawer": "2024-11-29 07:27:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
+      "has_purpur_block": "2024-11-29 07:29:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_paper": "2024-11-29 06:17:00 +0000"
+      "has_purpur_block": "2024-11-29 07:29:25 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_kitchen_counter": {
+  "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
-      "has_planks": "2024-11-29 06:58:15 +0000"
+      "has_purpur_block": "2024-11-29 07:29:25 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/dragon_head_decomposing": {
+  "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
-      "has_dragon_head": "2024-11-29 06:46:23 +0000"
+      "has_purpur_block": "2024-11-29 07:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-11-29 07:29:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-11-29 07:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-11-29 07:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-29 07:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-11-29 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-11-29 07:46:30 +0000"
     },
     "done": true
   },
