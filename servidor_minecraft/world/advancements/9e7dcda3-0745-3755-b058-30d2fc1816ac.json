@@ -2530,6 +2530,7 @@
       "cooked_mutton": "2024-11-23 06:35:09 +0000",
       "sweet_berries": "2024-11-24 08:08:44 +0000",
       "cooked_beef": "2024-11-23 06:45:03 +0000",
+      "chorus_fruit": "2024-11-30 06:54:31 +0000",
       "baked_potato": "2024-11-24 07:40:55 +0000",
       "apple": "2024-11-23 06:48:23 +0000",
       "cooked_cod": "2024-11-29 07:29:10 +0000",
@@ -11415,9 +11416,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-30 06:58:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-11-30 07:00:38 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ruined_citadel": {
     "criteria": {
       "citadel": "2024-11-30 05:47:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-30 06:58:47 +0000"
     },
     "done": true
   },
