@@ -11464,5 +11464,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-12-01 03:23:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
