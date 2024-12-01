@@ -11452,6 +11452,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/netherite_axe_repairing": {
+    "criteria": {
+      "has_netherite_axe": "2024-12-01 03:47:38 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2024-12-01 03:15:41 +0000"
