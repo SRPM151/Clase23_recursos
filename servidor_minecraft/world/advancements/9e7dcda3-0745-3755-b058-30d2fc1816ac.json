@@ -11452,5 +11452,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2024-12-01 03:15:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-12-01 03:11:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
