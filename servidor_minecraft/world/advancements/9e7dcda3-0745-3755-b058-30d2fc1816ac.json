@@ -11416,27 +11416,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_sword_repairing": {
-    "criteria": {
-      "has_netherite_sword": "2024-11-30 06:58:58 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
-    "criteria": {
-      "has_netherite_pickaxe": "2024-11-30 07:00:38 +0000"
-    },
-    "done": true
-  },
   "cataclysm:find_ruined_citadel": {
     "criteria": {
       "citadel": "2024-11-30 05:47:31 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_helmet_repairing": {
-    "criteria": {
-      "has_netherite_helmet": "2024-11-30 06:58:47 +0000"
     },
     "done": true
   },
@@ -11449,6 +11431,24 @@
   "aether:recipes/tools/netherite_shovel_repairing": {
     "criteria": {
       "has_netherite_shovel": "2024-11-30 06:02:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_helmet_repairing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-30 06:58:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-30 06:58:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-11-30 07:00:38 +0000"
     },
     "done": true
   },
