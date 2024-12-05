@@ -1992,3 +1992,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 03:46:41.477] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
 [05Dec2024 03:46:41.477] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [05Dec2024 03:46:41.478] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[05Dec2024 04:02:27.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Helin26[/127.112.73.149:52577] logged in with entity id 61506 at (105.30000001192093, 95.5, -157.61706948194512)
+[05Dec2024 04:02:27.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Helin26 joined the game
+[05Dec2024 04:02:27.699] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Helin26...
+[05Dec2024 04:02:27.700] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 04:02:27.700] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Helin26
+[05Dec2024 04:03:24.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> zzz
+[05Dec2024 04:04:31.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> duerman
+[05Dec2024 04:04:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Helin26 has made the advancement [Sweet Dreams]
+[05Dec2024 04:04:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> y hola al nuevo integrante
+[05Dec2024 04:05:01.888] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -850, 114, 230.
+[05Dec2024 04:05:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Helin26> hola, soy ceci, mucho gusto
