@@ -323,6 +323,7 @@
       "woodland": "2024-11-25 07:32:04 +0000",
       "shrubland": "2024-12-05 05:28:03 +0000",
       "rocky_shrubland": "2024-12-05 05:27:50 +0000",
+      "scrubland": "2024-12-05 06:25:33 +0000",
       "bayou": "2024-12-05 05:35:34 +0000",
       "highland": "2024-11-25 07:07:50 +0000",
       "marsh": "2024-11-25 07:27:46 +0000",
@@ -525,11 +526,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-05 05:30:56 +0000",
+      "minecraft:deep_ocean": "2024-12-05 06:31:54 +0000",
       "minecraft:eroded_badlands": "2024-12-05 05:48:31 +0000",
       "minecraft:birch_forest": "2024-11-25 07:08:57 +0000",
       "minecraft:bamboo_jungle": "2024-11-25 07:34:00 +0000",
       "minecraft:wooded_badlands": "2024-12-05 05:44:11 +0000",
       "minecraft:badlands": "2024-12-05 05:50:18 +0000",
+      "minecraft:beach": "2024-12-05 06:29:22 +0000",
       "minecraft:dark_forest": "2024-12-05 05:32:17 +0000",
       "minecraft:river": "2024-11-25 07:08:28 +0000",
       "minecraft:swamp": "2024-11-25 07:27:41 +0000",
@@ -537,6 +540,7 @@
       "minecraft:desert": "2024-12-05 05:44:25 +0000",
       "minecraft:windswept_forest": "2024-12-05 05:32:43 +0000",
       "minecraft:jungle": "2024-12-05 05:42:38 +0000",
+      "minecraft:ocean": "2024-12-05 06:29:48 +0000",
       "minecraft:warm_ocean": "2024-12-05 05:54:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-25 07:27:01 +0000",
       "minecraft:plains": "2024-11-25 07:30:25 +0000"
