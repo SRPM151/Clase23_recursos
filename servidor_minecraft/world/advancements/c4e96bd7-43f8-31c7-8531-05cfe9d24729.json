@@ -12783,5 +12783,11 @@
     },
     "done": true
   },
+  "totw_modded:jungle_tower": {
+    "criteria": {
+      "jungle": "2024-12-05 02:38:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
