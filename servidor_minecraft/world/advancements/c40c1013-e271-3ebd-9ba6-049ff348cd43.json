@@ -330,6 +330,7 @@
       "clover_patch": "2024-11-25 07:06:54 +0000",
       "old_growth_woodland": "2024-11-25 07:31:41 +0000",
       "field": "2024-12-05 05:30:23 +0000",
+      "orchard": "2024-12-05 06:40:04 +0000",
       "lavender_forest": "2024-11-25 07:29:25 +0000",
       "mediterranean_forest": "2024-11-25 07:31:25 +0000",
       "coniferous_forest": "2024-12-05 05:27:56 +0000",
@@ -535,6 +536,7 @@
       "minecraft:beach": "2024-12-05 06:29:22 +0000",
       "minecraft:dark_forest": "2024-12-05 05:32:17 +0000",
       "minecraft:river": "2024-11-25 07:08:28 +0000",
+      "minecraft:stony_shore": "2024-12-05 06:32:43 +0000",
       "minecraft:swamp": "2024-11-25 07:27:41 +0000",
       "minecraft:forest": "2024-11-25 07:27:26 +0000",
       "minecraft:desert": "2024-12-05 05:44:25 +0000",
@@ -4545,6 +4547,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2024-12-05 06:23:34 +0000"
@@ -4563,15 +4571,75 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/tropical_fish_decomposing": {
+    "criteria": {
+      "has_tropical_fish": "2024-12-05 06:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-05 06:37:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-05 06:37:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/carrot_decomposing": {
+    "criteria": {
+      "has_carrot": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:37:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2024-12-05 06:23:30 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-12-05 06:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-05 06:37:13 +0000"
     },
     "done": true
   },
