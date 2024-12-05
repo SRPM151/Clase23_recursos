@@ -1825,3 +1825,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 01:32:49.544] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
 [05Dec2024 01:32:51.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
 [05Dec2024 01:33:22.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[05Dec2024 01:36:49.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.112.73.149:50373] logged in with entity id 665 at (125.69032033390992, 95.5, -140.17348561047208)
+[05Dec2024 01:36:49.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[05Dec2024 01:36:49.894] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[05Dec2024 01:36:49.895] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 01:36:49.896] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
+[05Dec2024 01:36:50.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/davenonymous/libnonymous/helper/RedstoneMode
+[05Dec2024 01:37:19.941] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[05Dec2024 01:37:30.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/silentchaos512/lib/advancements/UseItemTrigger$Target
+[05Dec2024 01:40:14.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/su5ed/mffs/util/Fortron$Action
+[05Dec2024 01:40:14.228] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[05Dec2024 01:42:16.865] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[05Dec2024 01:42:40.047] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[05Dec2024 01:42:44.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[05Dec2024 01:42:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[05Dec2024 01:45:06.311] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[05Dec2024 01:45:06.311] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdb777a5$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks

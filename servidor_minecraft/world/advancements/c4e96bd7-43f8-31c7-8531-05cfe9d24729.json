@@ -12530,61 +12530,19 @@
     },
     "done": false
   },
-  "iceandfire:recipes/combat/tide_blue_chestplate": {
-    "criteria": {
-      "has_item": "2024-11-29 07:25:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2024-11-29 08:00:48 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2024-11-29 07:21:17 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2024-11-29 07:42:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_boots": {
-    "criteria": {
-      "has_item": "2024-11-29 07:52:22 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
-    "criteria": {
-      "has_items": "2024-11-29 07:37:08 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/prism": {
-    "criteria": {
-      "has_item": "2024-11-29 07:37:08 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
-    "criteria": {
-      "has_items": "2024-11-29 07:39:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2024-11-29 07:29:53 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-11-29 07:21:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2024-11-29 07:21:20 +0000"
     },
@@ -12602,21 +12560,135 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2024-11-29 07:21:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2024-11-29 07:21:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2024-11-29 07:21:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-29 07:24:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-11-29 07:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2024-11-29 07:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-11-29 07:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2024-11-29 07:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-11-29 07:25:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-11-29 07:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-11-29 07:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-11-29 07:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-11-29 07:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2024-11-29 07:29:53 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2024-11-29 07:37:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/prism": {
+    "criteria": {
+      "has_item": "2024-11-29 07:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-11-29 07:37:08 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
     "criteria": {
-      "has_item": "2024-11-29 07:21:20 +0000"
+      "has_the_recipe": "2024-11-29 07:37:08 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
     "criteria": {
-      "has_sea_serpent_scales_green": "2024-11-29 07:21:21 +0000"
+      "has_parent_recipe": "2024-11-29 07:37:08 +0000"
+    },
+    "done": false
+  },
+  "biomancy:recipes/biomancy/decomposing/prismarine_crystals_decomposing": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-11-29 07:37:08 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
+    "criteria": {
+      "has_items": "2024-11-29 07:39:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2024-11-29 07:42:08 +0000"
     },
     "done": true
   },
@@ -12632,39 +12704,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_green_leggings": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
-      "has_item": "2024-11-29 07:21:21 +0000"
+      "has_sea_serpent_scales_bronze": "2024-11-29 07:47:31 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_leggings": {
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
     "criteria": {
-      "has_item": "2024-11-29 07:29:53 +0000"
+      "has_item": "2024-11-29 07:47:31 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+  "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
-      "has_sea_serpent_scales_blue": "2024-11-29 07:25:31 +0000"
+      "has_item": "2024-11-29 07:47:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
-      "has_basalt": "2024-11-29 08:11:48 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/misc/enchantment_transposer": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 07:37:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2024-11-29 07:29:53 +0000"
+      "has_item": "2024-11-29 07:52:22 +0000"
     },
     "done": true
   },
@@ -12680,57 +12740,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2024-11-29 07:47:31 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2024-11-29 07:52:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-11-29 08:11:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_leggings": {
-    "criteria": {
-      "has_item": "2024-11-29 07:25:31 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:recipes/generic/curse_transposer": {
-    "criteria": {
-      "has_parent_recipe": "2024-11-29 07:37:08 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/tide_blue_boots": {
-    "criteria": {
-      "has_item": "2024-11-29 07:25:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2024-11-29 07:24:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_helmet": {
-    "criteria": {
-      "has_item": "2024-11-29 07:25:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_leggings": {
-    "criteria": {
-      "has_item": "2024-11-29 07:47:31 +0000"
     },
     "done": true
   },
@@ -12740,39 +12752,27 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/prismarine_crystals_decomposing": {
+  "minecraft:recipes/misc/raw_gold": {
     "criteria": {
-      "has_prismarine_crystals": "2024-11-29 07:37:08 +0000"
+      "has_raw_gold_block": "2024-11-29 08:00:48 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_chestplate": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "has_item": "2024-11-29 07:29:53 +0000"
+      "has_basalt": "2024-11-29 08:11:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-11-29 08:11:48 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-11-29 08:11:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_boots": {
-    "criteria": {
-      "has_item": "2024-11-29 07:47:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_helmet": {
-    "criteria": {
-      "has_item": "2024-11-29 07:29:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_green_helmet": {
-    "criteria": {
-      "has_item": "2024-11-29 07:21:21 +0000"
     },
     "done": true
   },
