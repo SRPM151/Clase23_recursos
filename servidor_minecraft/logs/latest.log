@@ -2708,3 +2708,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 07:54:59.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/brandon3055/brandonscore/lib/entityfilter/FilterType
 [05Dec2024 08:13:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Who Needs Darkness?]
 [05Dec2024 08:35:04.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mr. Hannah'/305321, l='ServerLevel[world]', x=204.58, y=68.92, z=-116.58] died: Mr. Hannah was slain by AkujinPas
+[05Dec2024 08:43:11.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/305759, l='ServerLevel[world]', x=157.65, y=72.38, z=-57.61] died: Honeyed Archer suffocated in a wall
