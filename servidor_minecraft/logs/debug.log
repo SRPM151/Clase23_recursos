@@ -13000,3 +13000,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 03:46:41.478] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
 [05Dec2024 03:49:23.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 03:49:23.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:53:23.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[05Dec2024 03:53:23.993] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:other/desert_temple_mimic/passages/passage_1 is being run through DFU (hash 2ca04b8e20b5316fd1501217f1d304f35245cee8c53318bf17d5764c6147d965), this will cause launch time delays
+[05Dec2024 03:53:24.070] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:other/desert_temple_mimic/passages/passage_2 is being run through DFU (hash 9b3feedf3168c801cf94f70892804177eaba86405cddfea83c5fa0af20960140), this will cause launch time delays
+[05Dec2024 03:54:23.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:54:23.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:59:23.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:59:23.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
