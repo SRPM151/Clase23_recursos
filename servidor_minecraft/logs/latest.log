@@ -1980,3 +1980,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 03:27:46.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
 [05Dec2024 03:30:00.947] [Server thread/INFO] [Scaling Health/]: Blight Skeleton has died
 [05Dec2024 03:36:23.624] [Server thread/INFO] [mixin/]: Mixing MixinHoglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi
+[05Dec2024 03:41:11.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[05Dec2024 03:41:11.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[05Dec2024 03:41:41.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.246.153.96:47901] logged in with entity id 51276 at (-872.0977256285555, 110.0, 233.30000001192093)
+[05Dec2024 03:41:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[05Dec2024 03:41:41.060] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[05Dec2024 03:41:41.060] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 03:41:41.061] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[05Dec2024 03:46:41.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.112.73.149:54405] logged in with entity id 52350 at (140.09736671703354, 100.0, -159.03398948908418)
+[05Dec2024 03:46:41.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[05Dec2024 03:46:41.477] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[05Dec2024 03:46:41.477] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 03:46:41.478] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
