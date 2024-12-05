@@ -13775,3 +13775,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 05:00:02.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
 [05Dec2024 05:00:02.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
 [05Dec2024 05:00:42.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 moved too quickly! -2.4349530398774846,0.0,9.850515054032257
+[05Dec2024 05:04:27.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:04:27.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:09:27.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:09:27.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
