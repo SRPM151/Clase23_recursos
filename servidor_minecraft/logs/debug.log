@@ -18221,3 +18221,117 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 07:17:08.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cataclysm:ruined_citadel16
 [05Dec2024 07:17:08.901] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
 [05Dec2024 07:17:15.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 07:17:32.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
+[05Dec2024 07:17:52.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[05Dec2024 07:18:20.276] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[05Dec2024 07:18:46.198] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[05Dec2024 07:18:48.243] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[05Dec2024 07:18:52.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Dec2024 07:18:56.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_10
+[05Dec2024 07:18:56.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_22
+[05Dec2024 07:18:56.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_melee_1
+[05Dec2024 07:18:56.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_4
+[05Dec2024 07:18:56.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_12
+[05Dec2024 07:18:56.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_16
+[05Dec2024 07:18:56.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_charged_creeper_0
+[05Dec2024 07:18:56.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_14
+[05Dec2024 07:18:56.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_11
+[05Dec2024 07:18:56.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_21
+[05Dec2024 07:18:56.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_19
+[05Dec2024 07:18:56.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_23
+[05Dec2024 07:18:56.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_25
+[05Dec2024 07:18:56.813] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_guardian_3
+[05Dec2024 07:18:56.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_7
+[05Dec2024 07:18:56.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_ranged_0
+[05Dec2024 07:18:56.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_5
+[05Dec2024 07:18:56.900] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_3
+[05Dec2024 07:18:56.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_1
+[05Dec2024 07:18:56.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_17
+[05Dec2024 07:18:56.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_15
+[05Dec2024 07:18:56.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_9
+[05Dec2024 07:18:56.962] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_26
+[05Dec2024 07:18:56.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_20
+[05Dec2024 07:18:56.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_18
+[05Dec2024 07:18:56.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_24
+[05Dec2024 07:18:56.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_6
+[05Dec2024 07:18:56.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_0
+[05Dec2024 07:18:57.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_8
+[05Dec2024 07:18:57.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_2
+[05Dec2024 07:18:57.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_phantom_0
+[05Dec2024 07:19:13.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5885ms or 117 ticks behind
+[05Dec2024 07:19:16.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of doom:archmaykr1
+[05Dec2024 07:19:17.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of doom:archmaykr2
+[05Dec2024 07:19:17.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of doom:archmaykr3
+[05Dec2024 07:19:17.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of doom:archmaykr4
+[05Dec2024 07:19:27.717] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[05Dec2024 07:19:31.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> xaero-waypoint:Shared Location:S:-2780:60:5772:13:false:0:Internal-the-end-waypoints
+[05Dec2024 07:19:31.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
+[05Dec2024 07:19:37.477] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:end/end_tower_bottom
+[05Dec2024 07:19:39.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:obsidilith_arena/base
+[05Dec2024 07:19:51.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4721ms or 94 ticks behind
+[05Dec2024 07:19:55.665] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[05Dec2024 07:20:02.841] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[05Dec2024 07:20:13.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6591ms or 131 ticks behind
+[05Dec2024 07:20:13.308] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[05Dec2024 07:20:24.215] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[05Dec2024 07:20:36.446] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:the_nether]
+[05Dec2024 07:20:37.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[05Dec2024 07:20:40.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Dec2024 07:20:44.213] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[05Dec2024 07:20:58.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[05Dec2024 07:20:59.582] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=125, y=86, z=-25} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[05Dec2024 07:21:20.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6855ms or 137 ticks behind
+[05Dec2024 07:21:40.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5169ms or 103 ticks behind
+[05Dec2024 07:21:44.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 07:21:44.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 07:22:00.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4903ms or 98 ticks behind
+[05Dec2024 07:22:19.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4544ms or 90 ticks behind
+[05Dec2024 07:22:38.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
+[05Dec2024 07:22:46.671] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[05Dec2024 07:22:58.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4574ms or 91 ticks behind
+[05Dec2024 07:23:20.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7292ms or 145 ticks behind
+[05Dec2024 07:23:43.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8436ms or 168 ticks behind
+[05Dec2024 07:24:05.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6792ms or 135 ticks behind
+[05Dec2024 07:24:17.749] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1474, y=19, z=299}
+[05Dec2024 07:24:17.750] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1475, y=17, z=299}
+[05Dec2024 07:24:17.750] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1477, y=19, z=299}
+[05Dec2024 07:24:17.750] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1482, y=17, z=299}
+[05Dec2024 07:24:17.750] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1481, y=17, z=299}
+[05Dec2024 07:24:17.751] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=301}
+[05Dec2024 07:24:17.751] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=309}
+[05Dec2024 07:24:17.751] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=19, z=306}
+[05Dec2024 07:24:17.751] [Worker-Main-304/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1483, y=17, z=305}
+[05Dec2024 07:24:19.341] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=18, z=314}
+[05Dec2024 07:24:19.342] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=317}
+[05Dec2024 07:24:19.342] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=16, z=316}
+[05Dec2024 07:24:19.342] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1466, y=18, z=323}
+[05Dec2024 07:24:19.342] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1467, y=16, z=323}
+[05Dec2024 07:24:19.342] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1460, y=16, z=323}
+[05Dec2024 07:24:19.343] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1459, y=17, z=321}
+[05Dec2024 07:24:32.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11960ms or 239 ticks behind
+[05Dec2024 07:25:02.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14544ms or 290 ticks behind
+[05Dec2024 07:25:19.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Dec2024 07:25:20.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[05Dec2024 07:25:20.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0
+[05Dec2024 07:25:20.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0
+[05Dec2024 07:25:20.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main
+[05Dec2024 07:25:20.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1
+[05Dec2024 07:25:20.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1
+[05Dec2024 07:25:20.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[05Dec2024 07:25:20.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0
+[05Dec2024 07:25:20.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2
+[05Dec2024 07:25:20.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0
+[05Dec2024 07:25:20.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_1
+[05Dec2024 07:25:20.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_5
+[05Dec2024 07:25:20.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_0
+[05Dec2024 07:25:20.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_4
+[05Dec2024 07:25:41.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6717ms or 134 ticks behind
+[05Dec2024 07:25:43.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3091, y=159, z=5778} BlockPos{x=-3091, y=159, z=5779}
+[05Dec2024 07:26:00.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3709ms or 74 ticks behind
+[05Dec2024 07:26:16.619] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[05Dec2024 07:26:16.646] [Worker-Main-69/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[05Dec2024 07:26:20.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5195ms or 103 ticks behind
+[05Dec2024 07:26:43.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7654ms or 153 ticks behind
+[05Dec2024 07:27:03.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5400ms or 108 ticks behind
+[05Dec2024 07:27:23.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[05Dec2024 07:27:52.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14514ms or 290 ticks behind
