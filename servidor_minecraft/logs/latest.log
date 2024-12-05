@@ -2043,3 +2043,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 05:00:02.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Timed out
 [05Dec2024 05:00:02.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
 [05Dec2024 05:00:42.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 moved too quickly! -2.4349530398774846,0.0,9.850515054032257
+[05Dec2024 05:12:42.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.208.147.118:53797] logged in with entity id 98282 at (41.3409760536263, 67.78236803978496, -8.118551142568203)
+[05Dec2024 05:12:42.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[05Dec2024 05:12:42.181] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[05Dec2024 05:12:42.182] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 05:12:42.182] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[05Dec2024 05:12:44.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[05Dec2024 05:12:44.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[05Dec2024 05:17:03.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Dread Beast
+[05Dec2024 05:17:06.777] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[05Dec2024 05:17:06.778] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[05Dec2024 05:18:02.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.208.147.118:45643] logged in with entity id 101175 at (41.3409760536263, 67.78236803978496, -8.118551142568203)
+[05Dec2024 05:18:02.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[05Dec2024 05:18:02.738] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[05Dec2024 05:18:02.738] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 05:18:02.738] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[05Dec2024 05:19:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Dread Ghoul
+[05Dec2024 05:20:36.611] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[05Dec2024 05:20:36.611] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
