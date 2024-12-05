@@ -12783,6 +12783,36 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-05 02:49:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-05 02:49:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2024-12-05 02:49:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-05 02:49:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-05 02:49:37 +0000"
+    },
+    "done": true
+  },
   "totw_modded:jungle_tower": {
     "criteria": {
       "jungle": "2024-12-05 02:38:23 +0000"
