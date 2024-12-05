@@ -2003,3 +2003,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 04:04:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> y hola al nuevo integrante
 [05Dec2024 04:05:01.888] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -850, 114, 230.
 [05Dec2024 04:05:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Helin26> hola, soy ceci, mucho gusto
+[05Dec2024 04:16:00.473] [Server thread/INFO] [torcherino-api/]: [Torcherino] ica_1016(c4e96bd7-43f8-31c7-8531-05cfe9d24729) placed a torcherino:compressed_torcherino at -848, 114, 230.
+[05Dec2024 04:17:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> supongo k eres la señora y ama de akijin jajaja
+[05Dec2024 04:20:48.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/59177, l='ServerLevel[world]', x=-724.40, y=143.39, z=320.60] died: Honeyed Archer burned to death
+[05Dec2024 04:20:59.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/59152, l='ServerLevel[world]', x=-903.95, y=120.85, z=139.37] died: Honeyed Archer suffocated in a wall
