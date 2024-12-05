@@ -12827,25 +12827,31 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/goat_horn_decomposing": {
-    "criteria": {
-      "has_goat_horn": "2024-12-05 04:24:11 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-05 03:49:03 +0000"
     },
     "done": false
   },
-  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+  "biomancy:recipes/biomancy/decomposing/goat_horn_decomposing": {
     "criteria": {
-      "has_item": "2024-12-05 04:31:19 +0000"
+      "has_goat_horn": "2024-12-05 04:24:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-05 04:25:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-05 04:25:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_ice_from_freezing": {
     "criteria": {
       "has_packed_ice": "2024-12-05 04:25:56 +0000"
     },
@@ -12857,21 +12863,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
+  "iceandfire:recipes/building_blocks/dread_stone": {
     "criteria": {
-      "all_effects": "2024-12-05 04:25:10 +0000"
+      "has_item": "2024-12-05 04:29:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-05 04:31:19 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/building_blocks/dread_stone_face": {
     "criteria": {
       "has_item": "2024-12-05 04:31:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_ice_from_freezing": {
-    "criteria": {
-      "has_packed_ice": "2024-12-05 04:25:56 +0000"
     },
     "done": true
   },
@@ -12884,12 +12890,6 @@
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2024-12-05 04:31:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2024-12-05 04:29:02 +0000"
     },
     "done": true
   },
