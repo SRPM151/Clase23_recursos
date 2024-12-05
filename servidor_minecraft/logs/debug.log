@@ -18534,3 +18534,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 09:55:07.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 10:00:07.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 10:00:07.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 10:01:18.252] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / minecraft:the_end]
+[05Dec2024 10:01:18.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[05Dec2024 10:01:18.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_10
+[05Dec2024 10:01:18.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_22
+[05Dec2024 10:01:18.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_melee_1
+[05Dec2024 10:01:18.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_4
+[05Dec2024 10:01:18.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_12
+[05Dec2024 10:01:18.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_16
+[05Dec2024 10:01:18.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_charged_creeper_0
+[05Dec2024 10:01:18.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_14
+[05Dec2024 10:01:18.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_11
+[05Dec2024 10:01:18.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_21
+[05Dec2024 10:01:18.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_19
+[05Dec2024 10:01:18.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_23
+[05Dec2024 10:01:18.564] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_25
+[05Dec2024 10:01:18.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_guardian_3
+[05Dec2024 10:01:18.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_7
+[05Dec2024 10:01:18.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_skeleton_ranged_0
+[05Dec2024 10:01:18.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_5
+[05Dec2024 10:01:18.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_3
+[05Dec2024 10:01:18.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_1
+[05Dec2024 10:01:18.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_17
+[05Dec2024 10:01:18.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_15
+[05Dec2024 10:01:18.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_9
+[05Dec2024 10:01:18.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_26
+[05Dec2024 10:01:18.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_20
+[05Dec2024 10:01:18.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_18
+[05Dec2024 10:01:18.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_24
+[05Dec2024 10:01:18.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_6
+[05Dec2024 10:01:18.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_0
+[05Dec2024 10:01:18.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_8
+[05Dec2024 10:01:18.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_2
+[05Dec2024 10:01:18.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_phantom_0
+[05Dec2024 10:02:13.926] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:the_end] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[05Dec2024 10:04:15.704] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 128, 92, -140.
+[05Dec2024 10:05:01.505] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 129, 92, -137.
+[05Dec2024 10:05:07.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 10:05:07.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 10:06:30.507] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
+[05Dec2024 10:08:05.254] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
+[05Dec2024 10:10:07.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 10:10:07.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

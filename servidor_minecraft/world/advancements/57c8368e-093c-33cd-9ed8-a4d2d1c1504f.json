@@ -11872,6 +11872,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/volatile_gland_decomposing": {
+    "criteria": {
+      "has_volatile_gland": "2024-12-05 10:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2024-12-05 09:33:54 +0000"
