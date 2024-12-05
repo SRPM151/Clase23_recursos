@@ -1900,3 +1900,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 02:24:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> duerme
 [05Dec2024 02:25:01.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
 [05Dec2024 02:25:32.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[05Dec2024 02:29:06.487] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[05Dec2024 02:30:22.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> tienes choetes?
+[05Dec2024 02:30:34.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> gracias
+[05Dec2024 02:30:43.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> no tengo mucho xd
+[05Dec2024 02:31:03.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> hay k hacer l agranga d epolvora
+[05Dec2024 02:31:51.374] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[05Dec2024 02:32:05.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[05Dec2024 02:32:05.868] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[05Dec2024 02:32:12.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[05Dec2024 02:32:20.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[05Dec2024 02:33:12.970] [Server thread/INFO] [Scaling Health/]: Blight Gorilla was killed by ica_1016
+[05Dec2024 02:36:47.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[05Dec2024 02:36:47.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
