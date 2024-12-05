@@ -11909,6 +11909,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2024-12-05 05:30:51 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/grass_block_decomposing": {
     "criteria": {
       "has_grass_block": "2024-12-05 05:21:41 +0000"
