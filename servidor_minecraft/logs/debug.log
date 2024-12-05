@@ -18576,3 +18576,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 10:08:05.254] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
 [05Dec2024 10:10:07.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 10:10:07.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 10:11:29.368] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 130, 96, -140.
+[05Dec2024 10:12:18.813] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 130, 91, -140.
+[05Dec2024 10:12:30.468] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 132, 93, -140.
+[05Dec2024 10:13:34.412] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 128, 95, -140.
+[05Dec2024 10:15:07.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 10:15:07.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 10:15:55.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[05Dec2024 10:15:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[05Dec2024 10:20:07.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 10:20:07.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
