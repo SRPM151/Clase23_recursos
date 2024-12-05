@@ -1890,3 +1890,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 02:10:14.046] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [05Dec2024 02:11:47.004] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
 [05Dec2024 02:14:45.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[05Dec2024 02:19:44.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[05Dec2024 02:19:44.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[05Dec2024 02:23:15.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.246.153.96:49277] logged in with entity id 15848 at (-865.4392743229656, 110.0, 242.6607367704408)
+[05Dec2024 02:23:15.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[05Dec2024 02:23:15.775] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[05Dec2024 02:23:15.776] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 02:23:15.776] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[05Dec2024 02:24:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> duerme
+[05Dec2024 02:25:01.949] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[05Dec2024 02:25:32.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
