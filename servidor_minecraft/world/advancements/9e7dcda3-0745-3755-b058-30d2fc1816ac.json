@@ -11980,6 +11980,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/mending_mixture": {
+    "criteria": {
+      "spellstone": "2024-12-05 07:31:59 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/grass_block_decomposing": {
     "criteria": {
       "has_grass_block": "2024-12-05 05:21:41 +0000"
