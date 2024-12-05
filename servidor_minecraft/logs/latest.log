@@ -2018,3 +2018,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 04:40:09.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=58, z=1813} BlockPos{x=294, y=59, z=1813}
 [05Dec2024 04:40:09.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=58, z=1813} BlockPos{x=294, y=59, z=1813}
 [05Dec2024 04:40:09.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=58, z=1813} BlockPos{x=295, y=57, z=1813}
+[05Dec2024 04:45:33.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Dread Knight
+[05Dec2024 04:45:36.503] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[05Dec2024 04:45:36.503] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[05Dec2024 04:48:38.275] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[05Dec2024 04:48:43.729] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[05Dec2024 04:49:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> pero si el nos dijo que ya fue su boda
+[05Dec2024 04:50:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Helin26> pues no sé con quien, pero conmigo no fue jaja
