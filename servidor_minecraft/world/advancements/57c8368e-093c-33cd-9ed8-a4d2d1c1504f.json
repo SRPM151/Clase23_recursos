@@ -5999,9 +5999,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-11-23 05:20:00 +0000"
+      "has_parent_recipe": "2024-11-23 05:20:00 +0000",
+      "has_items": "2024-12-05 09:29:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
@@ -11817,6 +11818,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2024-12-05 08:12:47 +0000"
@@ -11859,9 +11872,51 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2024-12-05 08:27:09 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-05 09:29:01 +0000"
     },
     "done": true
   },
@@ -11880,6 +11935,12 @@
   "handcrafted:recipes/misc/gray_sheet": {
     "criteria": {
       "has_gray_sheet": "2024-12-05 08:27:09 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ender_eye_decomposing": {
+    "criteria": {
+      "has_ender_eye": "2024-12-05 09:29:01 +0000"
     },
     "done": true
   },
