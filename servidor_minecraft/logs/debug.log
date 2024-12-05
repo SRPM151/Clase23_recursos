@@ -12278,3 +12278,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 03:15:09.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [05Dec2024 03:15:09.258] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
 [05Dec2024 03:15:57.125] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:small_blimp/small_blimp_ladders_0 is being run through DFU (hash 11164b71518e700dd180d13f05bd869ae125eb4d3618f9ac5037fc48d8b0cc55), this will cause launch time delays
+[05Dec2024 03:19:23.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:19:23.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:20:23.961] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by ica_1016
+[05Dec2024 03:24:23.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 03:24:23.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 03:27:45.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[05Dec2024 03:27:45.929] [Server thread/DEBUG] [ModernFix/]: Structure totw_modded:derelict/waystone_derelict_tower_top is being run through DFU (hash 92eaa54a712193f1b50d7d9567a88af029e5587d36540a5ee5442c2d99ada374), this will cause launch time delays
+[05Dec2024 03:27:46.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape

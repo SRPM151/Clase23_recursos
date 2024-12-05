@@ -1976,3 +1976,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 03:15:09.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
 [05Dec2024 03:15:09.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [05Dec2024 03:15:09.258] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[05Dec2024 03:20:23.961] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by ica_1016
+[05Dec2024 03:27:46.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
