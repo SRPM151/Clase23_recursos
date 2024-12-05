@@ -1968,3 +1968,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 02:48:18.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [05Dec2024 02:48:18.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
 [05Dec2024 02:53:27.659] [Worker-Main-117/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-52, z=1054}
+[05Dec2024 03:10:59.847] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[05Dec2024 03:14:49.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[05Dec2024 03:14:49.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[05Dec2024 03:15:09.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.246.153.96:50917] logged in with entity id 41112 at (378.4734084464622, 64.0, 938.2508820089301)
+[05Dec2024 03:15:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[05Dec2024 03:15:09.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[05Dec2024 03:15:09.257] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 03:15:09.258] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
