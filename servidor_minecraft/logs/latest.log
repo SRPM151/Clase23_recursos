@@ -2706,3 +2706,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 07:42:46.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
 [05Dec2024 07:53:10.604] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 129, 94, -135.
 [05Dec2024 07:54:59.033] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/brandon3055/brandonscore/lib/entityfilter/FilterType
+[05Dec2024 08:13:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Who Needs Darkness?]

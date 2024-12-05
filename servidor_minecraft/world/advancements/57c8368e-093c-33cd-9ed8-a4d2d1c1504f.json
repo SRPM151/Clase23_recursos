@@ -11816,5 +11816,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2024-12-05 08:12:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/light": {
+    "criteria": {
+      "modifier": "2024-12-05 08:13:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
