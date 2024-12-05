@@ -11872,6 +11872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-05 09:33:54 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/extradimensional_eye": {
     "criteria": {
       "has_items": "2024-12-05 09:29:01 +0000"
@@ -11911,6 +11917,12 @@
   "botania:recipes/tools/ender_hand": {
     "criteria": {
       "has_alt_item": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-05 09:33:54 +0000"
     },
     "done": true
   },

@@ -2711,3 +2711,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 08:43:11.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/305759, l='ServerLevel[world]', x=157.65, y=72.38, z=-57.61] died: Honeyed Archer suffocated in a wall
 [05Dec2024 09:09:20.154] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:compressed_torcherino at 130, 95, -136.
 [05Dec2024 09:29:34.129] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/shadowsoffire/gateways/net/ParticleMessage$Type
+[05Dec2024 09:39:36.894] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by AkujinPas
