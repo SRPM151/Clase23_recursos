@@ -11810,5 +11810,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2024-12-05 07:01:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

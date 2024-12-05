@@ -1251,6 +1251,7 @@
       "minecraft:dark_forest": "2024-11-23 06:56:28 +0000",
       "minecraft:sparse_jungle": "2024-11-28 07:12:38 +0000",
       "minecraft:river": "2024-11-22 07:08:28 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-05 06:46:19 +0000",
       "minecraft:stony_shore": "2024-11-24 05:52:39 +0000",
       "minecraft:snowy_plains": "2024-11-24 08:10:19 +0000",
       "minecraft:dripstone_caves": "2024-11-27 05:18:23 +0000",
@@ -2550,6 +2551,7 @@
       "enchanted_golden_apple": "2024-11-25 06:15:27 +0000",
       "mushroom_stew": "2024-11-27 08:30:59 +0000",
       "rabbit_stew": "2024-11-27 07:23:16 +0000",
+      "cooked_salmon": "2024-12-05 07:04:16 +0000",
       "carrot": "2024-11-24 06:06:51 +0000"
     },
     "done": false
@@ -11987,6 +11989,12 @@
   "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-05 06:40:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-05 06:55:31 +0000"
     },
     "done": true
   },

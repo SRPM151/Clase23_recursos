@@ -320,14 +320,17 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-05 06:47:13 +0000",
       "woodland": "2024-11-25 07:32:04 +0000",
       "shrubland": "2024-12-05 05:28:03 +0000",
+      "snowblossom_grove": "2024-12-05 06:53:38 +0000",
       "rocky_shrubland": "2024-12-05 05:27:50 +0000",
       "scrubland": "2024-12-05 06:25:33 +0000",
       "bayou": "2024-12-05 05:35:34 +0000",
       "highland": "2024-11-25 07:07:50 +0000",
       "marsh": "2024-11-25 07:27:46 +0000",
       "clover_patch": "2024-11-25 07:06:54 +0000",
+      "cold_desert": "2024-12-05 06:46:52 +0000",
       "old_growth_woodland": "2024-11-25 07:31:41 +0000",
       "field": "2024-12-05 05:30:23 +0000",
       "orchard": "2024-12-05 06:40:04 +0000",
@@ -340,6 +343,9 @@
       "volcanic_plains": "2024-12-05 05:37:34 +0000",
       "lavender_field": "2024-11-25 07:28:42 +0000",
       "grassland": "2024-11-25 07:23:38 +0000",
+      "snowy_coniferous_forest": "2024-12-05 06:46:26 +0000",
+      "snowy_fir_clearing": "2024-12-05 06:52:45 +0000",
+      "tundra": "2024-12-05 06:54:40 +0000",
       "rainforest": "2024-11-25 07:32:10 +0000"
     },
     "done": false
@@ -529,6 +535,7 @@
       "minecraft:taiga": "2024-12-05 05:30:56 +0000",
       "minecraft:deep_ocean": "2024-12-05 06:31:54 +0000",
       "minecraft:eroded_badlands": "2024-12-05 05:48:31 +0000",
+      "minecraft:frozen_river": "2024-12-05 06:50:43 +0000",
       "minecraft:birch_forest": "2024-11-25 07:08:57 +0000",
       "minecraft:bamboo_jungle": "2024-11-25 07:34:00 +0000",
       "minecraft:wooded_badlands": "2024-12-05 05:44:11 +0000",
@@ -536,13 +543,17 @@
       "minecraft:beach": "2024-12-05 06:29:22 +0000",
       "minecraft:dark_forest": "2024-12-05 05:32:17 +0000",
       "minecraft:river": "2024-11-25 07:08:28 +0000",
+      "minecraft:snowy_plains": "2024-12-05 06:54:54 +0000",
       "minecraft:stony_shore": "2024-12-05 06:32:43 +0000",
       "minecraft:swamp": "2024-11-25 07:27:41 +0000",
       "minecraft:forest": "2024-11-25 07:27:26 +0000",
+      "minecraft:frozen_ocean": "2024-12-05 06:46:20 +0000",
       "minecraft:desert": "2024-12-05 05:44:25 +0000",
       "minecraft:windswept_forest": "2024-12-05 05:32:43 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-05 06:48:20 +0000",
       "minecraft:jungle": "2024-12-05 05:42:38 +0000",
       "minecraft:ocean": "2024-12-05 06:29:48 +0000",
+      "minecraft:snowy_beach": "2024-12-05 06:45:58 +0000",
       "minecraft:warm_ocean": "2024-12-05 05:54:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-25 07:27:01 +0000",
       "minecraft:plains": "2024-11-25 07:30:25 +0000"
@@ -4547,9 +4558,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/iron_nugget_decomposing": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-05 07:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-12-05 06:47:05 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-05 07:00:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-05 07:14:08 +0000"
     },
     "done": true
   },
@@ -4559,9 +4624,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/apple_decomposing": {
     "criteria": {
       "has_apple": "2024-12-05 06:23:34 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-05 06:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
     },
     "done": true
   },
@@ -4577,9 +4672,111 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-05 07:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-05 07:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-05 06:48:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-05 06:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-05 07:00:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/potato_decomposing": {
+    "criteria": {
+      "has_potato": "2024-12-05 07:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2024-12-05 07:00:05 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-05 07:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-05 06:45:22 +0000"
     },
     "done": true
   },
@@ -4589,9 +4786,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 07:02:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-05 06:59:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-05 07:14:08 +0000"
     },
     "done": true
   },
@@ -4601,9 +4828,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-05 07:01:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-05 06:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2024-12-05 07:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-05 07:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-05 06:37:15 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_saplings": {
+    "criteria": {
+      "has_saplings": "2024-12-05 07:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-05 07:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-05 07:14:20 +0000"
     },
     "done": true
   },
@@ -4613,9 +4936,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-05 07:14:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2024-12-05 06:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
     },
     "done": true
   },
@@ -4625,9 +4978,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-05 06:45:22 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/wisteria_niveis": {
+    "criteria": {
+      "has_item": "2024-12-05 06:48:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 07:14:20 +0000"
     },
     "done": true
   },
@@ -4640,6 +5011,48 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-05 06:37:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-05 07:11:57 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-05 07:14:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_petals": {
+    "criteria": {
+      "has_flower": "2024-12-05 06:53:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-05 07:14:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2024-12-05 06:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-05 07:01:50 +0000"
     },
     "done": true
   },
