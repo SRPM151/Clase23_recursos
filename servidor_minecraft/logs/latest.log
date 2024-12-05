@@ -2007,3 +2007,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [05Dec2024 04:17:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> supongo k eres la señora y ama de akijin jajaja
 [05Dec2024 04:20:48.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/59177, l='ServerLevel[world]', x=-724.40, y=143.39, z=320.60] died: Honeyed Archer burned to death
 [05Dec2024 04:20:59.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/59152, l='ServerLevel[world]', x=-903.95, y=120.85, z=139.37] died: Honeyed Archer suffocated in a wall
+[05Dec2024 04:25:10.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [Free Willy]
+[05Dec2024 04:33:44.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.208.147.118:41219] logged in with entity id 71840 at (105.98741845781463, 93.0, 174.20979647887523)
+[05Dec2024 04:33:44.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[05Dec2024 04:33:44.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[05Dec2024 04:33:44.575] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[05Dec2024 04:33:44.576] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[05Dec2024 04:36:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Helin26> ama sí, señora no xd
+[05Dec2024 04:40:09.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=58, z=1812} BlockPos{x=294, y=59, z=1813}
+[05Dec2024 04:40:09.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=58, z=1813} BlockPos{x=294, y=59, z=1813}
+[05Dec2024 04:40:09.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=58, z=1813} BlockPos{x=294, y=59, z=1813}
+[05Dec2024 04:40:09.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=58, z=1813} BlockPos{x=295, y=57, z=1813}
