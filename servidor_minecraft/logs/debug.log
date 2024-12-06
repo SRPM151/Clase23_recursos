@@ -13825,3 +13825,105 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 07:35:45.016] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:torcherino at 130, 92, -136.
 [06Dec2024 07:36:39.244] [Server thread/INFO] [Scaling Health/]: Blight Mantis Shrimp has died
 [06Dec2024 07:38:20.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> estoy generando las esmeraldas
+[06Dec2024 07:39:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Would you Like to Know More?]
+[06Dec2024 07:40:01.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Book of Monsters]
+[06Dec2024 07:40:35.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 07:40:35.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 07:42:21.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[06Dec2024 07:42:21.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[06Dec2024 07:42:21.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[06Dec2024 07:42:21.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[06Dec2024 07:42:21.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[06Dec2024 07:42:21.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[06Dec2024 07:44:02.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 moved too quickly! -14.802608478988077,-2.0215998150161454,9.014260163417703
+[06Dec2024 07:44:04.851] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[06Dec2024 07:44:05.630] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[06Dec2024 07:44:06.204] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]]
+[06Dec2024 07:44:06.302] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[06Dec2024 07:44:06.311] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[06Dec2024 07:44:06.324] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[06Dec2024 07:44:06.338] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[06Dec2024 07:44:06.369] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[06Dec2024 07:44:06.378] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[06Dec2024 07:44:06.387] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[06Dec2024 07:44:06.398] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[06Dec2024 07:44:06.416] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[06Dec2024 07:44:06.441] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_2
+[06Dec2024 07:44:06.446] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[06Dec2024 07:44:06.456] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[06Dec2024 07:44:06.464] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[06Dec2024 07:44:06.491] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[06Dec2024 07:44:06.525] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[06Dec2024 07:44:06.549] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_2
+[06Dec2024 07:44:06.585] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[06Dec2024 07:44:06.633] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[06Dec2024 07:44:06.638] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[06Dec2024 07:44:06.643] [pool-10-thread-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[06Dec2024 07:44:06.952] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[06Dec2024 07:44:06.955] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of domesticationinnovation:plains_petshop
+[06Dec2024 07:44:06.955] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[06Dec2024 07:44:08.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[06Dec2024 07:44:09.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 moved too quickly! -9.850427932119146,-4.987528463165461,13.91798878450254
+[06Dec2024 07:44:12.062] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[06Dec2024 07:44:29.856] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[06Dec2024 07:44:31.547] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
+[06Dec2024 07:44:31.557] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[06Dec2024 07:44:31.598] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[06Dec2024 07:44:31.672] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[06Dec2024 07:44:33.568] [Worker-Main-66/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[06Dec2024 07:44:35.386] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[06Dec2024 07:44:52.898] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[06Dec2024 07:44:52.915] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[06Dec2024 07:44:52.924] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[06Dec2024 07:44:52.932] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[06Dec2024 07:44:52.943] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[06Dec2024 07:44:53.014] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[06Dec2024 07:44:53.130] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[06Dec2024 07:44:53.137] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_pillager_0 is being run through DFU (hash 4f6418d8793538812f40b3cad48d103447de9054e0e7920d296a2a60cba50fe8), this will cause launch time delays
+[06Dec2024 07:44:53.332] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_witch_2 is being run through DFU (hash 0b6e8fb951eb52bd628ece6dac3281894833c4fc6d12d1f3c35bb4171a3c8bfd), this will cause launch time delays
+[06Dec2024 07:44:53.359] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_4 is being run through DFU (hash 7f2025ab1d354267130f1a96c309e6ab7d6afe06ea925aaa7836305d25745969), this will cause launch time delays
+[06Dec2024 07:44:53.452] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_0 is being run through DFU (hash 56399e8a7ad4cb5f3492fcdba2c3ed9f13aa33d4f675142c5ec2160b7ba36988), this will cause launch time delays
+[06Dec2024 07:44:53.495] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_2 is being run through DFU (hash 49d608108637cabd9be898562076920feec7ea873c9a8556f11c2f6c51104cf1), this will cause launch time delays
+[06Dec2024 07:44:53.515] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_1 is being run through DFU (hash 838e46056670e5e4d0733967cc594841e9e552d6ffd62c9a752a5326e0169017), this will cause launch time delays
+[06Dec2024 07:44:53.532] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_3 is being run through DFU (hash 8bc9932226adcc9f828b30bf861fd128616101a3cf3a24f4549a7583f0b88dfb), this will cause launch time delays
+[06Dec2024 07:44:53.564] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_1 is being run through DFU (hash aab7a31f17e08b142bdbd3cd6cd6527bfe6694a16e52232355ec3bd07f61e701), this will cause launch time delays
+[06Dec2024 07:44:53.628] [Worker-Main-67/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_vindicator_1 is being run through DFU (hash 1129a2cdccc6062b097dca606c97e7dba621e451413d3846830d33de61225eab), this will cause launch time delays
+[06Dec2024 07:45:08.495] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict/derelict_tower_bottom
+[06Dec2024 07:45:08.502] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:derelict_grass/derelict_grass_tower_bottom
+[06Dec2024 07:45:08.512] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:badlands/badlands_tower_bottom
+[06Dec2024 07:45:08.524] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:desert/desert_tower_bottom
+[06Dec2024 07:45:08.533] [Worker-Main-65/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[06Dec2024 07:45:37.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 07:45:37.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 07:46:09.454] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[06Dec2024 07:46:09.482] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[06Dec2024 07:46:09.521] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[06Dec2024 07:46:09.542] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[06Dec2024 07:46:09.576] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[06Dec2024 07:46:09.605] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[06Dec2024 07:46:09.618] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[06Dec2024 07:46:09.632] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[06Dec2024 07:46:09.643] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[06Dec2024 07:46:09.663] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[06Dec2024 07:46:09.672] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[06Dec2024 07:46:09.682] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[06Dec2024 07:46:09.692] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[06Dec2024 07:46:09.707] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[06Dec2024 07:46:09.721] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[06Dec2024 07:46:09.748] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[06Dec2024 07:46:09.761] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[06Dec2024 07:46:09.768] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/outpost_captain
+[06Dec2024 07:46:09.769] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/pillager
+[06Dec2024 07:46:09.770] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/pillagers/vindicator
+[06Dec2024 07:46:10.366] [Worker-Main-65/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[06Dec2024 07:46:17.024] [Worker-Main-66/DEBUG] [mixin/]: Mixing FrogAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.frog.FrogAi
+[06Dec2024 07:46:17.049] [Worker-Main-66/DEBUG] [mixin/]: Mixing ShootTongueMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.frog.ShootTongue
+[06Dec2024 07:46:17.052] [Worker-Main-66/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[06Dec2024 07:46:18.055] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[06Dec2024 07:46:29.289] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[06Dec2024 07:46:29.305] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[06Dec2024 07:46:31.598] [Worker-Main-80/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-2122342030,2037532892,-2054313790,1110631077],type:"minecraft:entity",y_offset:0.36f}}]
+[06Dec2024 07:46:34.852] [Worker-Main-80/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[06Dec2024 07:47:27.165] [Worker-Main-67/DEBUG] [ModernFix/]: Using cached upgraded version of doom:icon_fight
+[06Dec2024 07:47:31.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:48:11.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> el akijin no tiene cama o k
