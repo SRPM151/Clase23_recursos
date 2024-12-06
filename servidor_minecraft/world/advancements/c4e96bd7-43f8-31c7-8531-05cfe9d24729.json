@@ -633,6 +633,7 @@
       "minecraft:desert": "2024-11-23 05:24:01 +0000",
       "minecraft:ocean": "2024-11-22 08:54:50 +0000",
       "minecraft:jungle": "2024-11-23 05:10:14 +0000",
+      "minecraft:windswept_savanna": "2024-12-06 07:34:41 +0000",
       "minecraft:warm_ocean": "2024-11-26 06:44:02 +0000",
       "minecraft:flower_forest": "2024-12-05 06:01:10 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-22 07:54:04 +0000",
@@ -13367,12 +13368,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/myrmex_resin_jungle": {
-    "criteria": {
-      "has_item": "2024-12-06 07:21:54 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/myrmex_jungle_helmet": {
     "criteria": {
       "has_item": "2024-12-06 07:21:42 +0000"
@@ -13388,6 +13383,12 @@
   "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
     "criteria": {
       "has_item": "2024-12-06 07:21:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2024-12-06 07:21:54 +0000"
     },
     "done": true
   },
