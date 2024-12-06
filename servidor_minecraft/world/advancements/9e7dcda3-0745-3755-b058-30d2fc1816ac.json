@@ -12005,9 +12005,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+  "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
-      "has_item": "2024-12-06 05:15:15 +0000"
+      "killed_fire_dragon": "2024-12-06 05:12:56 +0000"
     },
     "done": true
   },
@@ -12017,15 +12017,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
       "has_item": "2024-12-06 05:15:15 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_deathworm": {
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-06 05:12:56 +0000"
+      "has_item": "2024-12-06 05:15:15 +0000"
     },
     "done": true
   },
@@ -12038,6 +12038,18 @@
   "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
       "has_item": "2024-12-06 05:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 06:43:40 +0000"
     },
     "done": true
   },

@@ -2244,3 +2244,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 06:30:46.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Dec2024 06:30:46.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Dec2024 06:30:46.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Dec2024 06:38:00.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> AkujinPas duerme
+[06Dec2024 06:39:37.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.212.40.152:37169] logged in with entity id 50336 at (100.5, 92.0, 188.5)
+[06Dec2024 06:39:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[06Dec2024 06:39:37.492] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Lex_Ssuid...
+[06Dec2024 06:39:37.492] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Dec2024 06:39:37.493] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Lex_Ssuid
+[06Dec2024 06:42:17.439] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
+[06Dec2024 06:42:18.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[06Dec2024 06:44:02.163] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 133, 100, -146.
+[06Dec2024 06:44:19.372] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/brandon3055/draconicevolution/blocks/tileentity/chest/SmeltingLogic$FeedMode
+[06Dec2024 06:45:13.571] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[06Dec2024 06:45:14.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[06Dec2024 06:46:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Rotten to the Core]
+[06Dec2024 06:47:58.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
