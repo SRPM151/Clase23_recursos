@@ -12660,3 +12660,63 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 06:45:35.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 06:46:09.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Rotten to the Core]
 [06Dec2024 06:47:58.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[06Dec2024 06:49:16.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:jungle/jungle_tower_bottom
+[06Dec2024 06:49:17.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[06Dec2024 06:49:17.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[06Dec2024 06:49:17.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[06Dec2024 06:49:17.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[06Dec2024 06:49:17.091] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[06Dec2024 06:49:17.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[06Dec2024 06:49:17.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[06Dec2024 06:49:17.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[06Dec2024 06:49:17.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[06Dec2024 06:49:17.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[06Dec2024 06:49:17.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[06Dec2024 06:49:17.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[06Dec2024 06:49:17.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[06Dec2024 06:49:17.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[06Dec2024 06:49:17.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[06Dec2024 06:49:17.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[06Dec2024 06:49:17.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[06Dec2024 06:49:17.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[06Dec2024 06:49:17.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[06Dec2024 06:49:17.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[06Dec2024 06:49:17.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[06Dec2024 06:49:17.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[06Dec2024 06:49:17.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[06Dec2024 06:49:17.209] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[06Dec2024 06:49:17.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[06Dec2024 06:49:17.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[06Dec2024 06:49:17.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[06Dec2024 06:49:17.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[06Dec2024 06:49:17.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[06Dec2024 06:49:17.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[06Dec2024 06:49:17.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[06Dec2024 06:49:17.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[06Dec2024 06:49:17.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[06Dec2024 06:49:17.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[06Dec2024 06:49:17.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[06Dec2024 06:49:17.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[06Dec2024 06:49:17.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[06Dec2024 06:49:17.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[06Dec2024 06:49:17.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[06Dec2024 06:49:17.267] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[06Dec2024 06:49:17.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[06Dec2024 06:49:17.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[06Dec2024 06:50:35.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 06:50:35.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 06:52:36.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ?
+[06Dec2024 06:54:20.896] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
+[06Dec2024 06:54:32.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> NO TIENEN ia
+[06Dec2024 06:55:10.604] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
+[06Dec2024 06:55:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> k es ia
+[06Dec2024 06:55:35.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 06:55:35.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 06:55:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> la inteligencia antificial de los mobs
+[06Dec2024 06:56:03.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> y eso se consigue o como
+[06Dec2024 06:56:12.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ven a mi casa
+[06Dec2024 06:56:28.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[06Dec2024 06:56:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> logre que el generador de mobs los genere sin IA
+[06Dec2024 06:57:55.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> no hacen nada?
+[06Dec2024 06:58:04.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> sin ia no atacan xd
+[06Dec2024 06:58:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> y como lo isiste
