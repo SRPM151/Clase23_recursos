@@ -2297,3 +2297,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 07:05:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> quieres los spauner
 [06Dec2024 07:05:38.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> de que tienes?
 [06Dec2024 07:07:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> ya se descompuso jajaja
+[06Dec2024 07:09:07.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> si sirve
+[06Dec2024 07:09:09.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Rotten to the Core]
+[06Dec2024 07:09:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Stay Out of my Peripheral!]
+[06Dec2024 07:09:39.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> si nacio XD
+[06Dec2024 07:09:48.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> jajaja ya vi jajaja
+[06Dec2024 07:09:58.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:10:22.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:10:23.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:10:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:10:25.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:10:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> yo ya estoy
+[06Dec2024 07:11:48.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Andy the Burger Chef
+[06Dec2024 07:11:49.902] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[06Dec2024 07:11:49.903] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[06Dec2024 07:11:58.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Andy the Burger Chef'/68902, l='ServerLevel[world]', x=-868.82, y=110.00, z=243.78] died: Andy the Burger Chef was slain by ica_1016
+[06Dec2024 07:12:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [He Wasn't So Strong]
+[06Dec2024 07:12:42.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[06Dec2024 07:12:42.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[06Dec2024 07:12:53.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.246.153.96:37511] logged in with entity id 69470 at (-868.6171308651496, 110.0, 244.29268711927475)
+[06Dec2024 07:12:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[06Dec2024 07:12:53.908] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[06Dec2024 07:12:53.908] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Dec2024 07:12:53.908] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[06Dec2024 07:14:30.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> y las esmeraldas?
+[06Dec2024 07:15:02.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> se puede ver que es lo q tiene equipado el otro?
+[06Dec2024 07:15:54.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ica_1016> perate quiero ver si se puede ver k traes equipado
+[06Dec2024 07:21:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [The Only Good Bug...]
+[06Dec2024 07:22:59.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> y las esmeraldas?
+[06Dec2024 07:23:00.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:23:02.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:23:03.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:23:03.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:23:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> y las esmeraldas?
+[06Dec2024 07:23:04.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> y las esmeraldas?
+[06Dec2024 07:23:05.243] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/71249, l='ServerLevel[world]', x=-868.19, y=121.54, z=136.33] died: Honeyed Archer suffocated in a wall
+[06Dec2024 07:23:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:23:12.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:23:12.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Lex_Ssuid> duerman
+[06Dec2024 07:23:12.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[06Dec2024 07:23:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[06Dec2024 07:23:48.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.196.55.183:33785] logged in with entity id 74152 at (-963.0710352642152, 5.0, 301.7591359228178)
+[06Dec2024 07:23:48.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[06Dec2024 07:23:48.454] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to AkujinPas...
+[06Dec2024 07:23:48.454] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Dec2024 07:23:48.455] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to AkujinPas
