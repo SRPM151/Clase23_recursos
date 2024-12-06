@@ -1916,3 +1916,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 05:19:02.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
 [06Dec2024 05:22:47.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [06Dec2024 05:23:00.171] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tiviacz/travelersbackpack/inventory/sorter/SortType$Type
+[06Dec2024 05:26:39.124] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem was killed by Lex_Ssuid
+[06Dec2024 05:28:32.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=70, z=126} BlockPos{x=119, y=69, z=123}
+[06Dec2024 05:29:27.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/17606, l='ServerLevel[world]', x=124.68, y=114.25, z=-132.64] died: Honeyed Archer burned to death
+[06Dec2024 05:31:16.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[06Dec2024 05:31:16.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[06Dec2024 05:31:41.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.246.153.96:33913] logged in with entity id 25238 at (-878.6364468137009, 110.0, 262.30000001192093)
+[06Dec2024 05:31:41.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[06Dec2024 05:31:41.651] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ica_1016...
+[06Dec2024 05:31:41.652] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[06Dec2024 05:31:41.652] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ica_1016
+[06Dec2024 05:32:08.305] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 131, 100, -140.
+[06Dec2024 05:35:51.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[06Dec2024 05:35:51.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
