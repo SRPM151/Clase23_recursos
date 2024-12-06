@@ -12053,5 +12053,17 @@
     },
     "done": true
   },
+  "bonsaitrees3:recipes/decorations/bonsaipot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 08:10:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2024-12-06 08:10:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
