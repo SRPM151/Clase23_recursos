@@ -12915,21 +12915,63 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-12-05 07:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2024-12-05 07:12:11 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/cyan_kitchen_counter": {
-    "criteria": {
-      "has_stone": "2024-12-05 07:13:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-05 07:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-12-05 07:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-05 07:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-05 07:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-12-05 07:12:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_bricks_corner_trim": "2024-12-05 07:12:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_bricks_pillar_trim": "2024-12-05 07:12:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_counter": {
+    "criteria": {
+      "has_stone": "2024-12-05 07:13:06 +0000"
     },
     "done": true
   },
@@ -12960,24 +13002,6 @@
   "cfm:recipes/decorations/gray_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-05 07:13:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab": {
-    "criteria": {
-      "has_polished_granite": "2024-12-05 07:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2024-12-05 07:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2024-12-05 07:12:11 +0000"
     },
     "done": true
   },
@@ -13029,12 +13053,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_thornborn_towers": {
-    "criteria": {
-      "location0": "2024-12-05 07:12:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/magenta_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-05 07:13:06 +0000"
@@ -13047,21 +13065,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-05 07:12:11 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/terracotta_wide_pot": {
     "criteria": {
       "has_terracotta_wide_pot": "2024-12-05 07:13:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs": {
-    "criteria": {
-      "has_polished_granite": "2024-12-05 07:13:07 +0000"
     },
     "done": true
   },
@@ -13089,12 +13095,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2024-12-05 07:12:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 07:13:06 +0000"
@@ -13104,12 +13104,6 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-05 07:13:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2024-12-05 07:12:11 +0000"
     },
     "done": true
   },
@@ -13161,12 +13155,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
-    "criteria": {
-      "has_polished_granite": "2024-12-05 07:13:07 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-05 07:13:06 +0000"
@@ -13182,12 +13170,6 @@
   "cfm:recipes/decorations/white_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-05 07:13:06 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bricks_corner_trim": {
-    "criteria": {
-      "has_bricks_corner_trim": "2024-12-05 07:12:11 +0000"
     },
     "done": true
   },
@@ -13221,9 +13203,27 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/bricks_pillar_trim": {
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
-      "has_bricks_pillar_trim": "2024-12-05 07:12:11 +0000"
+      "has_polished_granite": "2024-12-05 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-05 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-05 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-05 07:13:07 +0000"
     },
     "done": true
   },

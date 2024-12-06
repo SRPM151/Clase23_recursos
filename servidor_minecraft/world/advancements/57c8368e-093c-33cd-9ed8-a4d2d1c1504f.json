@@ -11818,21 +11818,15 @@
     },
     "done": true
   },
-  "botania:recipes/tools/itemfinder": {
-    "criteria": {
-      "has_item": "2024-12-05 09:29:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2024-12-05 09:29:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2024-12-05 08:12:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/light": {
+    "criteria": {
+      "modifier": "2024-12-05 08:13:50 +0000"
     },
     "done": true
   },
@@ -11848,18 +11842,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/ghost_sword": {
-    "criteria": {
-      "has_item": "2024-12-05 08:37:19 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:spawner/light": {
-    "criteria": {
-      "modifier": "2024-12-05 08:13:50 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/gray_sofa": {
     "criteria": {
       "has_wool": "2024-12-05 08:27:09 +0000"
@@ -11872,27 +11854,51 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/volatile_gland_decomposing": {
+  "comforts:sleeping_bag_gray": {
     "criteria": {
-      "has_volatile_gland": "2024-12-05 10:08:04 +0000"
+      "has_gray_wool": "2024-12-05 08:27:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_copper_ore": "2024-12-05 09:33:54 +0000"
+      "has_gray_wool": "2024-12-05 08:27:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2024-12-05 08:27:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2024-12-05 08:27:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2024-12-05 08:37:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-05 09:29:01 +0000"
     },
     "done": true
   },
   "enigmaticlegacy:recipes/generic/extradimensional_eye": {
     "criteria": {
       "has_items": "2024-12-05 09:29:01 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_gray": {
-    "criteria": {
-      "has_gray_wool": "2024-12-05 08:27:09 +0000"
     },
     "done": true
   },
@@ -11926,39 +11932,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2024-12-05 09:33:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-12-05 09:29:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2024-12-05 08:27:09 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2024-12-05 08:27:09 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_sheet": {
-    "criteria": {
-      "has_gray_sheet": "2024-12-05 08:27:09 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/ender_eye_decomposing": {
     "criteria": {
       "has_ender_eye": "2024-12-05 09:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-05 09:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-12-05 09:33:54 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/volatile_gland_decomposing": {
+    "criteria": {
+      "has_volatile_gland": "2024-12-05 10:08:04 +0000"
     },
     "done": true
   },

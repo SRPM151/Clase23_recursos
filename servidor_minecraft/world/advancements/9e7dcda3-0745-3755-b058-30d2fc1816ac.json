@@ -11914,6 +11914,30 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/grass_block_decomposing": {
+    "criteria": {
+      "has_grass_block": "2024-12-05 05:21:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2024-12-05 05:30:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-05 06:37:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-05 06:37:48 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-05 06:40:08 +0000"
@@ -11932,33 +11956,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2024-12-05 06:37:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-05 06:40:08 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2024-12-05 05:30:51 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-05 06:37:42 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/skelewag": {
-    "criteria": {
-      "killed_by": "2024-12-05 06:43:49 +0000"
     },
     "done": true
   },
@@ -11980,27 +11980,27 @@
     },
     "done": true
   },
-  "enigmaticlegacy:main/mending_mixture": {
-    "criteria": {
-      "spellstone": "2024-12-05 07:31:59 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/grass_block_decomposing": {
-    "criteria": {
-      "has_grass_block": "2024-12-05 05:21:41 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-05 06:40:08 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-12-05 06:43:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-05 06:55:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/mending_mixture": {
+    "criteria": {
+      "spellstone": "2024-12-05 07:31:59 +0000"
     },
     "done": true
   },
