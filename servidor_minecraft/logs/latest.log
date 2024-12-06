@@ -1937,3 +1937,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 05:44:40.503] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
 [06Dec2024 05:44:58.907] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [06Dec2024 05:44:58.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AkujinPas> ya hay polvora
+[06Dec2024 05:49:39.415] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[06Dec2024 05:49:50.508] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[06Dec2024 05:49:50.509] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[06Dec2024 05:49:50.512] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[06Dec2024 05:49:53.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32961, l='ServerLevel[world]', x=-716.21, y=65.00, z=-868.02] died, message: 'Villager was turned into KFC by Fire Dragon'
+[06Dec2024 05:50:05.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/32960, l='ServerLevel[world]', x=-696.72, y=65.00, z=-877.49] died, message: 'Mason burned to death'
+[06Dec2024 05:51:25.352] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[06Dec2024 05:52:27.348] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
+[06Dec2024 05:53:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Adding a Switch]
+[06Dec2024 05:53:24.548] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
+[06Dec2024 05:54:35.050] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 130, 97, -140.

@@ -4561,6 +4561,7 @@
       "minecraft:magma_cube": "2024-11-29 06:59:56 +0000",
       "minecraft:spider": "2024-11-25 05:27:51 +0000",
       "minecraft:creeper": "2024-11-27 09:53:27 +0000",
+      "minecraft:phantom": "2024-12-06 05:51:29 +0000",
       "minecraft:witch": "2024-11-28 04:29:28 +0000",
       "minecraft:husk": "2024-11-27 09:07:29 +0000",
       "minecraft:shulker": "2024-11-28 09:48:43 +0000",
@@ -13225,6 +13226,36 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2024-12-05 07:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-06 05:50:03 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/phantom_membrane_decomposing": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 05:51:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 05:51:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-06 05:51:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-06 05:51:35 +0000"
     },
     "done": true
   },
