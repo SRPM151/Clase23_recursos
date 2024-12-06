@@ -332,6 +332,7 @@
       "marsh": "2024-11-23 06:20:48 +0000",
       "jade_cliffs": "2024-11-25 01:28:39 +0000",
       "clover_patch": "2024-11-22 07:06:24 +0000",
+      "mystic_grove": "2024-12-06 07:50:09 +0000",
       "cold_desert": "2024-11-25 01:34:46 +0000",
       "old_growth_woodland": "2024-11-23 05:55:12 +0000",
       "maple_woods": "2024-11-22 07:32:10 +0000",
@@ -13389,6 +13390,18 @@
   "iceandfire:recipes/misc/myrmex_resin_jungle": {
     "criteria": {
       "has_item": "2024-12-06 07:21:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 07:51:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 07:51:25 +0000"
     },
     "done": true
   },
