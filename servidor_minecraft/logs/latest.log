@@ -1948,3 +1948,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [06Dec2024 05:53:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Adding a Switch]
 [06Dec2024 05:53:24.548] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Draconic Evolution Grinder
 [06Dec2024 05:54:35.050] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 130, 97, -140.
+[06Dec2024 05:59:09.097] [Server thread/INFO] [torcherino-api/]: [Torcherino] AkujinPas(57c8368e-093c-33cd-9ed8-a4d2d1c1504f) placed a torcherino:wall_compressed_torcherino at 130, 96, -140.
+[06Dec2024 06:01:56.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! -9.899906000620007,0.0,-2.911722622787636

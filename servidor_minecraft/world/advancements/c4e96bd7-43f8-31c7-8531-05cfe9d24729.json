@@ -13229,6 +13229,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_digesting_leaves": {
+    "criteria": {
+      "has_leaves": "2024-12-06 06:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-06 05:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-06 05:50:03 +0000"
@@ -13238,6 +13250,12 @@
   "biomancy:recipes/biomancy/decomposing/phantom_membrane_decomposing": {
     "criteria": {
       "has_phantom_membrane": "2024-12-06 05:51:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-06 06:01:12 +0000"
     },
     "done": true
   },
