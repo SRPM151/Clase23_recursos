@@ -340,6 +340,7 @@
       "coniferous_forest": "2024-11-25 00:24:36 +0000",
       "spider_nest": "2024-11-25 02:40:32 +0000",
       "dryland": "2024-11-28 06:29:13 +0000",
+      "wasteland": "2024-12-06 05:14:30 +0000",
       "lush_desert": "2024-11-28 06:31:46 +0000",
       "redwood_forest": "2024-11-25 02:31:12 +0000",
       "visceral_heap": "2024-11-25 08:27:09 +0000",
@@ -12001,6 +12002,42 @@
   "enigmaticlegacy:main/mending_mixture": {
     "criteria": {
       "spellstone": "2024-12-05 07:31:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2024-12-06 05:15:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2024-12-06 05:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-06 05:15:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-06 05:12:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2024-12-06 05:15:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2024-12-06 05:15:15 +0000"
     },
     "done": true
   },
