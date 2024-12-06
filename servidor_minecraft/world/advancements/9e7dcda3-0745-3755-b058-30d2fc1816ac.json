@@ -12041,6 +12041,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 08:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 08:20:55 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 08:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-06 06:43:40 +0000"
@@ -12053,9 +12071,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2024-12-06 08:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 08:20:55 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 08:20:55 +0000"
+    },
+    "done": true
+  },
   "bonsaitrees3:recipes/decorations/bonsaipot": {
     "criteria": {
       "has_the_recipe": "2024-12-06 08:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 08:20:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/copper_ingot_decomposing": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-06 08:20:55 +0000"
     },
     "done": true
   },
