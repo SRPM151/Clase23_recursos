@@ -12206,6 +12206,12 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_copper": {
+    "criteria": {
+      "has_forge_ingots/copper": "2024-12-08 14:10:59 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/swap_ring": {
     "criteria": {
       "has_item": "2024-12-08 12:17:11 +0000"
