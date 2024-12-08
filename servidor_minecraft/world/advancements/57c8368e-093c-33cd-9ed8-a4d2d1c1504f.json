@@ -12134,6 +12134,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/phantom_membrane_decomposing": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-08 13:50:25 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2024-12-08 12:17:11 +0000"
@@ -12149,6 +12155,12 @@
   "botania:recipes/tools/manasteel_pick": {
     "criteria": {
       "has_item": "2024-12-08 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-08 13:50:25 +0000"
     },
     "done": true
   },
@@ -12209,6 +12221,18 @@
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2024-12-08 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane_from_bio_forging": {
+    "criteria": {
+      "has_phantom_membrane": "2024-12-08 13:50:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-08 13:50:25 +0000"
     },
     "done": true
   },
