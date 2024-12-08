@@ -12260,6 +12260,12 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_emerald": {
+    "criteria": {
+      "has_forge_gems/emerald": "2024-12-08 12:50:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2024-12-08 12:17:11 +0000"
