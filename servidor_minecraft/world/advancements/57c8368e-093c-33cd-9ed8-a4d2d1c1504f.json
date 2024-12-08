@@ -12182,6 +12182,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-08 14:21:40 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2024-12-08 12:17:11 +0000"
@@ -12299,6 +12305,12 @@
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2024-12-08 12:17:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-08 14:21:40 +0000"
     },
     "done": true
   },
