@@ -12050,6 +12050,18 @@
     },
     "done": true
   },
+  "fluidtank:recipes/tank/tank_gold": {
+    "criteria": {
+      "has_forge_ingots/gold": "2024-12-08 11:53:13 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_wood": {
+    "criteria": {
+      "has_forge_glass": "2024-12-08 11:59:08 +0000"
+    },
+    "done": true
+  },
   "fluidtank:recipes/tank/tank_stone": {
     "criteria": {
       "has_forge_stone": "2024-12-08 11:44:28 +0000"
@@ -12065,6 +12077,12 @@
   "craftingautomat:recipes/redstone/autocrafter": {
     "criteria": {
       "has_end_stone": "2024-12-08 11:40:37 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_diamond": {
+    "criteria": {
+      "has_forge_gems/diamond": "2024-12-08 11:53:54 +0000"
     },
     "done": true
   },

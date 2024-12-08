@@ -10086,3 +10086,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Dec2024 11:49:01.435] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [08Dec2024 11:49:01.584] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mod/azure/azurelib/core/object/PlayState
 [08Dec2024 11:49:16.183] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[08Dec2024 11:50:08.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 11:50:08.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 11:50:10.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[08Dec2024 11:50:49.026] [Server thread/DEBUG] [mixin/]: Mixing CrashReportSectionMixin from neruina.mixins.json into net.minecraft.CrashReportCategory
+[08Dec2024 11:51:41.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$RedstoneMode
+[08Dec2024 11:51:41.195] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$Distribution
+[08Dec2024 11:51:41.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/maxhenkel/pipez/blocks/tileentity/UpgradeTileEntity$FilterMode
+[08Dec2024 11:51:41.725] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[08Dec2024 11:55:08.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 11:55:08.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 11:56:08.077] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/illusivesoulworks/comforts/common/ComfortsEvents$Result
+[08Dec2024 11:57:05.377] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[08Dec2024 11:57:11.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[08Dec2024 12:00:08.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 12:00:08.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
