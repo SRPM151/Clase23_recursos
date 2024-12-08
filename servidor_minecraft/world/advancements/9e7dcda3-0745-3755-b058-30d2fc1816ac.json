@@ -1248,6 +1248,7 @@
       "minecraft:frozen_river": "2024-11-24 08:10:26 +0000",
       "minecraft:cherry_grove": "2024-11-25 03:11:53 +0000",
       "minecraft:birch_forest": "2024-11-22 07:08:55 +0000",
+      "minecraft:windswept_hills": "2024-12-07 05:14:41 +0000",
       "minecraft:beach": "2024-12-02 00:13:38 +0000",
       "minecraft:dark_forest": "2024-11-23 06:56:28 +0000",
       "minecraft:sparse_jungle": "2024-11-28 07:12:38 +0000",
@@ -12041,6 +12042,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 06:43:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2024-12-06 08:10:30 +0000"
+    },
+    "done": true
+  },
+  "bonsaitrees3:recipes/decorations/bonsaipot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 08:10:35 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2024-12-06 08:20:55 +0000"
@@ -12056,18 +12081,6 @@
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2024-12-06 08:20:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-06 06:43:40 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_stove": {
-    "criteria": {
-      "has_nether_brick": "2024-12-06 06:43:40 +0000"
     },
     "done": true
   },
@@ -12089,12 +12102,6 @@
     },
     "done": true
   },
-  "bonsaitrees3:recipes/decorations/bonsaipot": {
-    "criteria": {
-      "has_the_recipe": "2024-12-06 08:10:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-06 08:20:55 +0000"
@@ -12107,9 +12114,81 @@
     },
     "done": true
   },
-  "supplementaries:recipes/ash_bricks": {
+  "enigmaticlegacy:recipes/generic/etherium_ingot": {
     "criteria": {
-      "has_ash_brick": "2024-12-06 08:10:30 +0000"
+      "has_items": "2024-12-07 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/light": {
+    "criteria": {
+      "modifier": "2024-12-07 05:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-07 05:01:31 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/etherium_ingot_from_blasting": {
+    "criteria": {
+      "has_items": "2024-12-07 04:52:33 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/recall_potion": {
+    "criteria": {
+      "spellstone": "2024-12-07 05:03:36 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/cat_killer": {
+    "criteria": {
+      "has_killed_cat": "2024-12-07 05:00:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-12-07 05:00:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-12-07 05:00:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2024-12-07 05:39:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2024-12-07 05:00:58 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "has_recall_potion": "2024-12-07 05:03:36 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-12-07 05:00:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2024-12-07 05:12:44 +0000"
     },
     "done": true
   },

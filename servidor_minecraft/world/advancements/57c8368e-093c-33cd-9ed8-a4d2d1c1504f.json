@@ -345,6 +345,7 @@
       "dune_beach": "2024-12-05 02:25:08 +0000",
       "seasonal_forest": "2024-11-22 07:23:43 +0000",
       "rocky_rainforest": "2024-11-29 06:14:58 +0000",
+      "pasture": "2024-12-07 07:04:02 +0000",
       "lavender_field": "2024-11-29 05:49:37 +0000",
       "fir_clearing": "2024-11-22 07:36:14 +0000",
       "pumpkin_patch": "2024-11-23 07:14:08 +0000",
@@ -587,10 +588,12 @@
       "minecraft:snowy_slopes": "2024-11-24 10:56:43 +0000",
       "minecraft:frozen_river": "2024-11-25 07:32:04 +0000",
       "minecraft:cherry_grove": "2024-11-23 07:23:35 +0000",
+      "minecraft:sunflower_plains": "2024-12-07 07:02:55 +0000",
       "minecraft:birch_forest": "2024-11-22 07:14:54 +0000",
       "minecraft:bamboo_jungle": "2024-11-29 06:15:17 +0000",
       "minecraft:wooded_badlands": "2024-11-29 06:45:42 +0000",
       "minecraft:badlands": "2024-11-29 06:47:35 +0000",
+      "minecraft:savanna_plateau": "2024-12-07 07:05:18 +0000",
       "minecraft:beach": "2024-11-22 06:23:59 +0000",
       "minecraft:dark_forest": "2024-11-22 07:14:32 +0000",
       "minecraft:sparse_jungle": "2024-11-29 06:16:18 +0000",
@@ -607,6 +610,7 @@
       "minecraft:jungle": "2024-11-29 06:14:10 +0000",
       "minecraft:windswept_savanna": "2024-11-29 06:36:29 +0000",
       "minecraft:warm_ocean": "2024-11-29 06:22:11 +0000",
+      "minecraft:flower_forest": "2024-12-07 07:04:49 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-24 05:24:54 +0000",
       "minecraft:deep_dark": "2024-11-23 06:54:12 +0000",
       "minecraft:meadow": "2024-11-23 07:12:10 +0000",
@@ -11992,13 +11996,13 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
-      "bestiary": "2024-12-06 07:40:01 +0000"
+      "has_diamond_ore": "2024-12-06 07:29:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-12-06 07:29:37 +0000"
     },
@@ -12010,15 +12014,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "has_diamond_ore": "2024-12-06 07:29:37 +0000"
+      "bestiary": "2024-12-06 07:40:01 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-06 08:23:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2024-12-07 07:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-07 07:09:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-07 07:09:31 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/toxin_gland_decomposing": {
+    "criteria": {
+      "has_toxin_gland": "2024-12-07 07:40:38 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_stone": {
+    "criteria": {
+      "has_forge_stone": "2024-12-08 11:44:28 +0000"
+    },
+    "done": true
+  },
+  "fluidtank:recipes/tank/tank_iron": {
+    "criteria": {
+      "has_forge_ingots/iron": "2024-12-08 11:43:43 +0000"
+    },
+    "done": true
+  },
+  "craftingautomat:recipes/redstone/autocrafter": {
+    "criteria": {
+      "has_end_stone": "2024-12-08 11:40:37 +0000"
     },
     "done": true
   },

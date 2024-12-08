@@ -629,6 +629,7 @@
       "minecraft:stony_shore": "2024-11-22 08:52:40 +0000",
       "minecraft:dripstone_caves": "2024-11-27 06:04:16 +0000",
       "minecraft:swamp": "2024-11-23 06:21:05 +0000",
+      "minecraft:grove": "2024-12-07 05:46:52 +0000",
       "minecraft:forest": "2024-11-22 08:19:38 +0000",
       "minecraft:lush_caves": "2024-11-25 07:05:23 +0000",
       "minecraft:ice_spikes": "2024-11-25 01:32:37 +0000",
@@ -4564,6 +4565,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-11-22 10:00:13 +0000",
+      "minecraft:vindicator": "2024-12-07 05:36:12 +0000",
       "minecraft:magma_cube": "2024-11-29 06:59:56 +0000",
       "minecraft:spider": "2024-11-25 05:27:51 +0000",
       "minecraft:creeper": "2024-11-27 09:53:27 +0000",
@@ -13418,6 +13420,162 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-12-06 08:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-07 05:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2024-12-07 05:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-07 05:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-12-07 05:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-07 05:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-07 05:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-07 05:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-07 05:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-07 05:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-12-07 05:25:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2024-12-07 05:29:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_deepslate": "2024-12-07 05:29:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2024-12-07 05:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-12-07 05:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2024-12-07 05:39:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-07 05:42:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-07 06:25:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-12-07 06:26:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2024-12-07 06:25:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2024-12-07 06:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-07 06:25:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2024-12-07 06:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-07 06:25:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/blaze_powder_decomposing": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-07 06:25:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2024-12-07 06:34:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2024-12-07 06:25:42 +0000"
     },
     "done": true
   },
