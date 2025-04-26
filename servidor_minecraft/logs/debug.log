@@ -5471,3 +5471,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Apr2025 08:29:09.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 08:29:09.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Apr2025 08:29:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> [x:-538, y:140, z:-90, dim:minecraft:overworld]
+[26Apr2025 08:33:52.740] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/359, l='ServerLevel[world]', x=92.89, y=91.50, z=-93.49] died, message: 'Villager was squished too much'
+[26Apr2025 08:34:00.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60814, l='ServerLevel[world]', x=92.83, y=91.59, z=-93.30] died, message: 'Villager was squished too much'
+[26Apr2025 08:34:09.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 08:34:09.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 08:34:51.803] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3362ms or 67 ticks
+[26Apr2025 08:34:56.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/333, l='ServerLevel[world]', x=92.89, y=91.42, z=-93.59] died, message: 'Villager was squished too much'
+[26Apr2025 08:39:09.601] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 08:39:09.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 08:44:09.600] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 08:44:09.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 08:48:25.670] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3099ms or 61 ticks
+[26Apr2025 08:49:09.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 08:49:09.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
