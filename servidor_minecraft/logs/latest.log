@@ -701,3 +701,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Apr2025 06:41:55.043] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3247ms or 64 ticks
 [26Apr2025 06:50:49.989] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3044ms or 60 ticks
 [26Apr2025 06:55:19.992] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3208ms or 64 ticks
+[26Apr2025 07:10:43.902] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:39473] logged in with entity id 59456 at (110.6872354380271, 111.0, -113.18144298975044)
+[26Apr2025 07:10:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[26Apr2025 07:13:16.861] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3200ms or 64 ticks
+[26Apr2025 07:14:00.350] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3225ms or 64 ticks
+[26Apr2025 07:17:07.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Into Fire]
+[26Apr2025 07:17:22.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 withered away
+[26Apr2025 07:17:54.093] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3064ms or 61 ticks
+[26Apr2025 07:18:14.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
+[26Apr2025 07:19:00.397] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3078ms or 61 ticks
+[26Apr2025 07:19:53.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [Return to Sender]
+[26Apr2025 07:20:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was doomed to fall by Piglin
