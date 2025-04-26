@@ -343,8 +343,10 @@
     "criteria": {
       "woodland": "2025-04-24 04:06:20 +0000",
       "shrubland": "2025-04-23 04:02:23 +0000",
+      "snowblossom_grove": "2025-04-26 08:18:36 +0000",
       "rocky_shrubland": "2025-04-23 05:38:55 +0000",
       "scrubland": "2025-04-23 04:15:35 +0000",
+      "maple_woods": "2025-04-26 08:17:55 +0000",
       "lavender_forest": "2025-04-24 01:57:34 +0000",
       "mediterranean_forest": "2025-04-24 02:13:31 +0000",
       "redwood_forest": "2025-04-24 10:05:38 +0000",
@@ -750,6 +752,7 @@
       "cooked_mutton": "2025-04-24 03:43:14 +0000",
       "cooked_beef": "2025-04-24 01:58:42 +0000",
       "baked_potato": "2025-04-25 09:59:40 +0000",
+      "porkchop": "2025-04-26 08:15:12 +0000",
       "apple": "2025-04-25 08:30:10 +0000",
       "pumpkin_pie": "2025-04-24 02:20:42 +0000",
       "bread": "2025-04-23 04:10:03 +0000",
@@ -7394,6 +7397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-26 08:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-04-26 08:02:55 +0000"
@@ -7490,6 +7499,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-26 08:13:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-04-26 06:37:23 +0000"
@@ -7544,9 +7559,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-26 08:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-26 07:27:52 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-04-26 08:18:51 +0000"
     },
     "done": true
   },
@@ -7589,6 +7616,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2025-04-26 07:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-26 08:13:52 +0000"
     },
     "done": true
   },
