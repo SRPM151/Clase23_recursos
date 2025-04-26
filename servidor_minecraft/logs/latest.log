@@ -715,3 +715,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Apr2025 07:28:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Giddy Blaze
 [26Apr2025 07:34:00.200] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3107ms or 62 ticks
 [26Apr2025 07:37:43.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Giddy Blaze
+[26Apr2025 07:43:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas withered away
+[26Apr2025 07:44:36.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[26Apr2025 07:44:36.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[26Apr2025 07:46:21.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:39815] logged in with entity id 86560 at (39.30000001192093, 77.0, -109.69999998807907)
+[26Apr2025 07:46:21.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[26Apr2025 07:47:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Giddy Blaze
