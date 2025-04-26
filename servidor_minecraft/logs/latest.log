@@ -712,3 +712,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Apr2025 07:19:00.397] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3078ms or 61 ticks
 [26Apr2025 07:19:53.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [Return to Sender]
 [26Apr2025 07:20:29.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was doomed to fall by Piglin
+[26Apr2025 07:28:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Giddy Blaze

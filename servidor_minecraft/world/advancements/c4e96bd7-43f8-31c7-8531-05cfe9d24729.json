@@ -3452,6 +3452,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-23 05:23:38 +0000",
+      "minecraft:ghast": "2025-04-26 07:19:53 +0000",
       "minecraft:spider": "2025-04-23 07:25:52 +0000",
       "minecraft:creeper": "2025-04-25 10:25:02 +0000",
       "minecraft:zombified_piglin": "2025-04-24 09:29:49 +0000",
@@ -7362,6 +7363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-26 07:27:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-04-26 06:54:44 +0000"
@@ -7416,6 +7423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-26 07:27:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-04-26 06:20:19 +0000"
@@ -7458,6 +7471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-26 07:27:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-04-26 06:48:33 +0000"
@@ -7479,6 +7498,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-04-26 06:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-26 07:27:52 +0000"
     },
     "done": true
   },
@@ -7512,6 +7537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-26 07:27:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-04-26 07:14:55 +0000"
@@ -7536,6 +7567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-26 07:27:52 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-04-26 06:04:01 +0000"
@@ -7557,6 +7594,12 @@
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-04-26 07:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-26 07:19:53 +0000"
     },
     "done": true
   },
