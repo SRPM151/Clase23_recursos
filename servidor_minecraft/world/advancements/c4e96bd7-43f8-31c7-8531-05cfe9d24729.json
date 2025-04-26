@@ -5028,6 +5028,7 @@
       "cabbage": "2025-04-24 05:29:21 +0000",
       "tomato": "2025-04-24 04:42:15 +0000",
       "rice": "2025-04-24 06:00:16 +0000",
+      "potato": "2025-04-26 06:19:04 +0000",
       "wheat": "2025-04-24 04:42:08 +0000",
       "melon": "2025-04-24 05:29:16 +0000",
       "carrot": "2025-04-23 07:26:47 +0000"
@@ -7364,9 +7365,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-26 06:20:19 +0000"
+    },
+    "done": true
+  },
   "chimes:recipes/decorations/amethyst_chimes": {
     "criteria": {
       "has_planks": "2025-04-26 06:08:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-04-26 06:20:19 +0000"
     },
     "done": true
   },
