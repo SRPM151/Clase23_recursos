@@ -3532,6 +3532,7 @@
       "minecraft:pillager": "2025-04-23 08:39:48 +0000",
       "minecraft:skeleton": "2025-04-23 05:38:48 +0000",
       "minecraft:ravager": "2025-04-24 09:09:09 +0000",
+      "minecraft:ghast": "2025-04-26 07:36:25 +0000",
       "minecraft:vindicator": "2025-04-24 09:23:00 +0000",
       "minecraft:spider": "2025-04-23 04:51:20 +0000",
       "minecraft:creeper": "2025-04-23 05:19:45 +0000",
@@ -7224,6 +7225,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-25 18:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-04-26 07:37:28 +0000"
     },
     "done": true
   },
