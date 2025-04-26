@@ -680,3 +680,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Apr2025 04:24:00.241] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3081ms or 61 ticks
 [26Apr2025 04:38:03.301] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3132ms or 62 ticks
 [26Apr2025 05:04:00.132] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3177ms or 63 ticks
+[26Apr2025 05:16:20.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:39613] logged in with entity id 13631 at (98.14775850328483, 111.0, -118.87190342770155)
+[26Apr2025 05:16:20.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[26Apr2025 05:17:02.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> [x:-548, y:181, z:-91, dim:minecraft:overworld]
