@@ -754,6 +754,7 @@
       "pumpkin_pie": "2025-04-24 02:20:42 +0000",
       "bread": "2025-04-23 04:10:03 +0000",
       "suspicious_stew": "2025-04-26 06:37:23 +0000",
+      "golden_carrot": "2025-04-26 07:03:14 +0000",
       "cooked_chicken": "2025-04-23 05:44:52 +0000",
       "carrot": "2025-04-23 04:40:48 +0000"
     },
@@ -6574,6 +6575,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-26 07:08:06 +0000",
       "minecraft:nether_wastes": "2025-04-24 06:28:54 +0000",
       "minecraft:warped_forest": "2025-04-24 08:38:37 +0000"
     },
@@ -7366,9 +7368,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-26 07:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-26 06:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-26 07:00:00 +0000"
     },
     "done": true
   },
@@ -7381,6 +7395,18 @@
   "chimes:recipes/decorations/amethyst_chimes": {
     "criteria": {
       "has_planks": "2025-04-26 06:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-26 07:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-26 07:00:00 +0000"
     },
     "done": true
   },
@@ -7402,6 +7428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-26 07:00:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-04-26 06:48:33 +0000"
@@ -7414,9 +7446,27 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-04-26 07:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-04-26 06:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-26 07:00:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-26 07:00:00 +0000"
     },
     "done": true
   },
@@ -7429,6 +7479,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-26 06:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-26 07:08:56 +0000"
     },
     "done": true
   },
