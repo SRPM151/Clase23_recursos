@@ -721,3 +721,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [26Apr2025 07:46:21.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:39815] logged in with entity id 86560 at (39.30000001192093, 77.0, -109.69999998807907)
 [26Apr2025 07:46:21.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
 [26Apr2025 07:47:33.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by Giddy Blaze
+[26Apr2025 07:52:46.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/353, l='ServerLevel[world]', x=92.72, y=91.00, z=-93.48] died, message: 'Villager was squished too much'
+[26Apr2025 07:53:05.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50122, l='ServerLevel[world]', x=92.72, y=91.59, z=-93.30] died, message: 'Villager was squished too much'
+[26Apr2025 07:54:38.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55102, l='ServerLevel[world]', x=92.81, y=91.34, z=-93.70] died, message: 'Villager was squished too much'
+[26Apr2025 07:54:44.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[26Apr2025 07:54:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[26Apr2025 07:54:52.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/39610, l='ServerLevel[world]', x=92.79, y=91.97, z=-93.30] died, message: 'Villager was squished too much'
+[26Apr2025 07:59:00.111] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3174ms or 63 ticks
