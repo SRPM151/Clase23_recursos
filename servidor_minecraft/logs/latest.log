@@ -931,3 +931,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 05:23:55.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by The Dead King
 [27Apr2025 05:24:35.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was eviscerated by The Dead King's vexes
 [27Apr2025 05:25:21.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was blasted by The Dead King
+[27Apr2025 05:28:33.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was melted by AkujinPas's poisonous breath
+[27Apr2025 05:28:35.565] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3019ms or 60 ticks
+[27Apr2025 05:28:59.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was shown the way of the light by AkujinPas
+[27Apr2025 05:29:10.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [Necronomicon]
+[27Apr2025 05:29:46.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has completed the challenge [Necronomicon]
+[27Apr2025 05:32:11.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Into Fire]
+[27Apr2025 05:35:59.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
+[27Apr2025 05:36:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Masquerade]
