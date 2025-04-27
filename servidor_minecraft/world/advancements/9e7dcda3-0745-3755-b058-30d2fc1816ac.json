@@ -2041,6 +2041,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-23 07:50:55 +0000",
       "minecraft:spider": "2025-04-23 08:10:02 +0000",
+      "minecraft:creeper": "2025-04-27 07:48:17 +0000",
+      "minecraft:witch": "2025-04-27 07:58:10 +0000",
       "minecraft:zombie": "2025-04-23 07:18:18 +0000"
     },
     "done": false
@@ -5300,9 +5302,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 07:53:16 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-04-27 04:32:29 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-04-27 07:53:16 +0000"
     },
     "done": true
   },
@@ -5390,6 +5404,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-27 07:53:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-27 02:53:25 +0000"
@@ -5456,6 +5476,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 07:53:16 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-04-27 07:53:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_quartz_pillar_trim": "2025-04-27 02:49:55 +0000"
@@ -5513,6 +5545,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 07:53:16 +0000"
     },
     "done": true
   },
@@ -5576,6 +5614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-27 07:53:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/plate": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
@@ -5609,6 +5653,12 @@
   "mcwwindows:recipes/oak": {
     "criteria": {
       "has_wood": "2025-04-27 04:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-27 07:53:16 +0000"
     },
     "done": true
   },
@@ -5736,6 +5786,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-27 03:18:23 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-04-27 07:53:16 +0000"
     },
     "done": true
   },
@@ -5877,6 +5933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-27 07:53:16 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-27 04:32:29 +0000"
@@ -5958,6 +6020,12 @@
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-04-27 04:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-27 07:53:16 +0000"
     },
     "done": true
   },
