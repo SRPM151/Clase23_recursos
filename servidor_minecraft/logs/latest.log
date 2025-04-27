@@ -769,3 +769,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 03:55:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
 [27Apr2025 03:56:04.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:32989] logged in with entity id 57828 at (103.07777034095979, 111.02159999847412, -103.96609748338672)
 [27Apr2025 03:56:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[27Apr2025 04:07:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [What a Deal!]
+[27Apr2025 04:14:52.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.32.186.126:51455] logged in with entity id 62904 at (301.5, 64.0, 1012.5)
+[27Apr2025 04:14:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[27Apr2025 04:14:53.390] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3469ms or 69 ticks
+[27Apr2025 04:16:23.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Juicy Success]
