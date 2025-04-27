@@ -5192,6 +5192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
@@ -5210,6 +5216,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-27 02:53:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-04-27 02:44:33 +0000"
@@ -5222,9 +5234,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/crafting_bowl": {
     "criteria": {
       "has_dried_kelp": "2025-04-27 02:44:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-27 02:53:25 +0000"
     },
     "done": true
   },
@@ -5306,6 +5330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-27 02:53:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
@@ -5324,6 +5354,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-04-27 02:55:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-04-27 02:49:17 +0000"
@@ -5339,6 +5381,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-27 02:53:25 +0000"
     },
     "done": true
   },
