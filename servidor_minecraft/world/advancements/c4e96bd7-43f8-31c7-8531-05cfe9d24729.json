@@ -8498,6 +8498,12 @@
     },
     "done": true
   },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2025-04-27 23:09:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-27 22:57:25 +0000"
@@ -8513,6 +8519,12 @@
   "slashblade:enchantment/feather_falling": {
     "criteria": {
       "customtrigger": "2025-04-27 23:00:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2025-04-27 23:09:05 +0000"
     },
     "done": true
   },
