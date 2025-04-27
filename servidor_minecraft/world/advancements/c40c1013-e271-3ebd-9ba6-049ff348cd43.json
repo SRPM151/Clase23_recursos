@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-23 05:32:03 +0000",
+      "minecraft:birch_forest": "2025-04-27 05:05:58 +0000",
       "minecraft:savanna_plateau": "2025-04-23 04:17:50 +0000",
       "minecraft:stony_peaks": "2025-04-23 04:17:47 +0000",
       "minecraft:river": "2025-04-23 08:17:06 +0000",
@@ -6697,9 +6698,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 05:01:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-04-27 05:05:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
       "killed_by_subterranodon": "2025-04-27 04:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 05:01:10 +0000"
     },
     "done": true
   },
@@ -6712,6 +6731,18 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-27 04:50:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-04-27 05:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-27 05:01:10 +0000"
     },
     "done": true
   },
