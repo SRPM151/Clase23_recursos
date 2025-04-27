@@ -6593,9 +6593,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-26 07:08:06 +0000",
       "minecraft:nether_wastes": "2025-04-24 06:28:54 +0000",
-      "minecraft:warped_forest": "2025-04-24 08:38:37 +0000"
+      "minecraft:soul_sand_valley": "2025-04-27 07:02:18 +0000",
+      "minecraft:warped_forest": "2025-04-24 08:38:37 +0000",
+      "minecraft:basalt_deltas": "2025-04-27 07:02:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {

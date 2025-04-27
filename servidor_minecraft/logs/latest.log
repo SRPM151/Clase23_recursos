@@ -1165,3 +1165,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 06:52:49.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=70, z=-198} BlockPos{x=100, y=68, z=-197}
 [27Apr2025 06:59:23.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was doomed to fall by Zombified Piglin
 [27Apr2025 06:59:59.254] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3106ms or 62 ticks
+[27Apr2025 07:02:41.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [Hot Tourist Destinations]
+[27Apr2025 07:02:53.004] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3056ms or 61 ticks
+[27Apr2025 07:03:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell from a high place
+[27Apr2025 07:06:15.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was shot by Piglin
+[27Apr2025 07:06:51.930] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3226ms or 64 ticks
+[27Apr2025 07:09:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 went up in flames
+[27Apr2025 07:10:13.893] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks

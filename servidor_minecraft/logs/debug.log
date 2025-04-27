@@ -6043,3 +6043,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 06:59:59.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 06:59:59.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 06:59:59.254] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3106ms or 62 ticks
+[27Apr2025 07:02:41.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has completed the challenge [Hot Tourist Destinations]
+[27Apr2025 07:02:53.004] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3056ms or 61 ticks
+[27Apr2025 07:03:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 fell from a high place
+[27Apr2025 07:04:59.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 07:04:59.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 07:05:11.170] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 07:06:07.646] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 07:06:15.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was shot by Piglin
+[27Apr2025 07:06:51.930] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3226ms or 64 ticks
+[27Apr2025 07:09:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 went up in flames
+[27Apr2025 07:09:59.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 07:09:59.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 07:10:13.893] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks
+[27Apr2025 07:10:33.520] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
