@@ -5156,6 +5156,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
@@ -5324,15 +5330,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 03:46:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
     },
     "done": true
   },
@@ -5366,9 +5390,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-04-27 02:49:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 03:46:12 +0000"
     },
     "done": true
   },
@@ -5405,6 +5447,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
     },
     "done": true
   },
@@ -5468,6 +5516,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-27 03:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
@@ -5489,6 +5543,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-04-27 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 03:49:18 +0000"
     },
     "done": true
   },
