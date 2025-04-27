@@ -6001,3 +6001,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 06:39:44.920] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
 [27Apr2025 06:39:59.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 06:39:59.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 06:40:26.003] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3108ms or 62 ticks
+[27Apr2025 06:40:34.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:40:40.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:40:47.168] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:41:22.426] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:41:44.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Piglin
+[27Apr2025 06:43:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Piglin
+[27Apr2025 06:43:55.739] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3019ms or 60 ticks
+[27Apr2025 06:44:04.438] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:44:53.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Reinforced Blaze
+[27Apr2025 06:44:59.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 06:44:59.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 06:45:14.727] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:45:46.876] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:45:59.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:46:13.060] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:47:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Hoglin
+[27Apr2025 06:48:18.019] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
+[27Apr2025 06:48:26.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:48:48.215] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:48:52.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:49:18.346] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[27Apr2025 06:49:59.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 06:49:59.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 06:50:21.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was doomed to fall by Reinforced Blaze
