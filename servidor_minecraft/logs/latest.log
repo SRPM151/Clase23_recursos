@@ -745,3 +745,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 03:25:28.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [27Apr2025 03:27:09.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [27Apr2025 03:31:22.609] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3011ms or 60 ticks
+[27Apr2025 03:40:38.629] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 14 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@6b9f1c1a
+[27Apr2025 03:41:22.575] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3125ms or 62 ticks
+[27Apr2025 03:42:31.328] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 15 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@2cdb3a18
+[27Apr2025 03:43:23.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/370, l='ServerLevel[world]', x=92.30, y=91.06, z=-93.30] died, message: 'Villager was squished too much'
+[27Apr2025 03:43:33.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:51895] logged in with entity id 50912 at (115.42172550586906, 111.0, -108.96247795591452)
+[27Apr2025 03:43:33.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[27Apr2025 03:43:49.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/376, l='ServerLevel[world]', x=92.86, y=91.04, z=-93.70] died, message: 'Villager was squished too much'
+[27Apr2025 03:43:50.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Apr2025 03:44:21.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/389, l='ServerLevel[world]', x=92.75, y=91.34, z=-93.30] died, message: 'Villager was squished too much'
+[27Apr2025 03:44:34.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[27Apr2025 03:45:11.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/385, l='ServerLevel[world]', x=92.69, y=91.03, z=-93.30] died, message: 'Villager was squished too much'
+[27Apr2025 03:45:48.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/380, l='ServerLevel[world]', x=92.85, y=91.00, z=-93.30] died, message: 'Villager was squished too much'
