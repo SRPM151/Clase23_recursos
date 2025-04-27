@@ -5409,9 +5409,22 @@
     },
     "done": true
   },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:white_taiga_grapejuice": "2025-04-27 04:17:31 +0000",
+      "vinery:white_grapejuice": "2025-04-27 04:17:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-04-27 03:55:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2025-04-27 04:17:27 +0000"
     },
     "done": true
   },
