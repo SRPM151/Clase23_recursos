@@ -363,7 +363,8 @@
       "volcanic_plains": "2025-04-27 04:40:19 +0000",
       "lavender_field": "2025-04-24 09:48:20 +0000",
       "prairie": "2025-04-23 04:11:50 +0000",
-      "grassland": "2025-04-26 08:21:08 +0000"
+      "grassland": "2025-04-26 08:21:08 +0000",
+      "undergrowth": "2025-04-27 08:07:25 +0000"
     },
     "done": false
   },
@@ -8166,6 +8167,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 08:08:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-04-27 06:49:23 +0000"
@@ -8256,6 +8263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-27 08:07:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-04-27 05:50:56 +0000"
@@ -8289,6 +8302,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-04-27 04:30:58 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamp_jar": {
+    "criteria": {
+      "requirement": "2025-04-27 08:07:38 +0000"
     },
     "done": true
   },
@@ -8395,9 +8414,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-27 08:07:38 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2025-04-27 05:02:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 08:08:26 +0000"
     },
     "done": true
   },
