@@ -1160,3 +1160,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 06:47:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Hoglin
 [27Apr2025 06:48:18.019] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
 [27Apr2025 06:50:21.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was doomed to fall by Reinforced Blaze
+[27Apr2025 06:52:49.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=70, z=-198} BlockPos{x=99, y=68, z=-197}
+[27Apr2025 06:52:49.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=70, z=-198} BlockPos{x=100, y=68, z=-197}
+[27Apr2025 06:52:49.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=70, z=-198} BlockPos{x=100, y=68, z=-197}
+[27Apr2025 06:59:23.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was doomed to fall by Zombified Piglin
+[27Apr2025 06:59:59.254] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3106ms or 62 ticks
