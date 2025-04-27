@@ -2897,6 +2897,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-04-25 07:11:55 +0000",
+      "sugar_cane": "2025-04-27 05:19:28 +0000",
       "wheat": "2025-04-23 07:47:26 +0000",
       "carrot": "2025-04-25 07:37:58 +0000"
     },
