@@ -2043,6 +2043,7 @@
       "minecraft:spider": "2025-04-23 08:10:02 +0000",
       "minecraft:creeper": "2025-04-27 07:48:17 +0000",
       "minecraft:witch": "2025-04-27 07:58:10 +0000",
+      "minecraft:piglin": "2025-04-27 08:30:25 +0000",
       "minecraft:zombie": "2025-04-23 07:18:18 +0000"
     },
     "done": false
@@ -6068,6 +6069,18 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-04-27 08:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-27 08:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 08:28:59 +0000"
     },
     "done": true
   },
