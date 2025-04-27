@@ -62,6 +62,7 @@
       "minecraft:stony_shore": "2025-04-23 08:07:38 +0000",
       "minecraft:jagged_peaks": "2025-04-23 07:07:22 +0000",
       "minecraft:forest": "2025-04-23 07:47:21 +0000",
+      "minecraft:lush_caves": "2025-04-27 03:55:03 +0000",
       "minecraft:flower_forest": "2025-04-23 07:02:36 +0000",
       "minecraft:meadow": "2025-04-23 07:07:11 +0000",
       "minecraft:savanna": "2025-04-23 07:15:06 +0000",
@@ -5162,6 +5163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-27 03:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-04-27 02:49:55 +0000"
@@ -5402,6 +5409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-27 03:55:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/quartz_corner_trim": {
     "criteria": {
       "has_quartz_corner_trim": "2025-04-27 02:49:55 +0000"
@@ -5543,6 +5556,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-04-27 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-27 03:55:52 +0000"
     },
     "done": true
   },
