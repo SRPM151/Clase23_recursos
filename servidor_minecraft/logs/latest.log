@@ -914,3 +914,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 05:05:58.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Dungeon Delving]
 [27Apr2025 05:05:58.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Dungeon Delving]
 [27Apr2025 05:06:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Dungeon Delving]
+[27Apr2025 05:09:22.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was slain by Zombie
+[27Apr2025 05:09:26.284] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3089ms or 61 ticks
+[27Apr2025 05:12:03.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was zapped to death by AkujinPas
+[27Apr2025 05:14:47.819] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3047ms or 60 ticks
+[27Apr2025 05:16:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was zapped to death by AkujinPas
+[27Apr2025 05:16:45.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas was slain by The Dead King
