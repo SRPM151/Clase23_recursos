@@ -4283,3 +4283,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 23:00:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Blade Arts -Aerial Rave A-       ]
 [27Apr2025 23:00:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Blade Arts -Aerial Rave B-       ]
 [27Apr2025 23:00:38.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Blade Arts -Combo A-              ]
+[27Apr2025 23:01:12.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Stay dead]
+[27Apr2025 23:01:15.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Source of Evil]
+[27Apr2025 23:02:03.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 23:02:03.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 23:03:27.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> sabes donde hay bambu?
+[27Apr2025 23:03:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> tengo un poco solo hazlo crecer
+[27Apr2025 23:07:03.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 23:07:03.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 23:07:36.659] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3035ms or 60 ticks
+[27Apr2025 23:09:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Anonymity -Bamboo Light-]
+[27Apr2025 23:10:24.953] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3014ms or 60 ticks
