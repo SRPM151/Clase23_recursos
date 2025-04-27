@@ -8486,5 +8486,23 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-04-27 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-04-27 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-04-27 22:56:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
