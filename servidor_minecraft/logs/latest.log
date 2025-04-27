@@ -696,3 +696,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 02:20:20.233] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
 [27Apr2025 02:21:00.696] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/399, l='ServerLevel[world]', x=92.88, y=91.36, z=-93.33] died, message: 'Villager was squished too much'
 [27Apr2025 02:23:20.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has reached the goal [The Cave That Time Forgot]
+[27Apr2025 02:28:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Town of Bedrock]
