@@ -1218,3 +1218,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 07:30:25.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
 [27Apr2025 07:30:43.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
 [27Apr2025 07:31:16.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has completed the challenge [Premium!]
+[27Apr2025 07:35:44.899] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3008ms or 60 ticks
+[27Apr2025 07:37:04.828] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3103ms or 62 ticks
+[27Apr2025 07:38:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Wireless Network]
+[27Apr2025 07:38:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Danger: High Voltage]
