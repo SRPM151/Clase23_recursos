@@ -5731,3 +5731,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [27Apr2025 05:36:07.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 05:36:07.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 05:36:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer has made the advancement [Masquerade]
+[27Apr2025 05:40:02.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was shown the way of the light by AkujinPas
+[27Apr2025 05:40:35.920] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [c40c1013-e271-3ebd-9ba6-049ff348cd43]
+[27Apr2025 05:41:07.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 05:41:07.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 05:42:48.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was mauled by AkujinPas's polar bear
+[27Apr2025 05:43:28.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [57c8368e-093c-33cd-9ed8-a4d2d1c1504f]
+[27Apr2025 05:45:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was mauled by AkujinPas's polar bear
+[27Apr2025 05:46:07.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 05:46:07.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 05:46:07.285] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3088ms or 61 ticks
+[27Apr2025 05:50:21.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
+[27Apr2025 05:51:07.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 05:51:07.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 05:52:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer was slain by AkujinPas
+[27Apr2025 05:53:20.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: claosgamer lost connection: Disconnected
+[27Apr2025 05:53:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: claosgamer left the game
+[27Apr2025 05:56:07.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 05:56:07.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 05:58:12.411] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3400ms or 68 ticks

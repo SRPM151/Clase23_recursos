@@ -6701,6 +6701,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-04-27 05:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-27 05:14:10 +0000"
@@ -6728,6 +6734,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-27 05:08:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-04-27 05:36:30 +0000"
     },
     "done": true
   },
