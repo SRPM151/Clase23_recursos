@@ -15,3 +15,26 @@
 [28Apr2025 00:36:27.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Abilities -Kick Jump-            ]
 [28Apr2025 00:36:51.880] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3267ms or 65 ticks
 [28Apr2025 00:42:04.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7430, l='ServerLevel[world]', x=92.88, y=91.25, z=-93.44] died, message: 'Villager was squished too much'
+[28Apr2025 00:47:03.185] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3141ms or 62 ticks
+[28Apr2025 00:48:36.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas moved too quickly! 8.798649642742859,0.0,4.848021133386908
+[28Apr2025 00:54:29.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/344, l='ServerLevel[world]', x=92.89, y=91.12, z=-93.47] died, message: 'Villager was squished too much'
+[28Apr2025 01:00:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Local Brewery]
+[28Apr2025 01:01:46.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/354, l='ServerLevel[world]', x=92.84, y=91.10, z=-93.70] died, message: 'Librarian was squished too much'
+[28Apr2025 01:05:38.969] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3135ms or 62 ticks
+[28Apr2025 01:06:25.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> NO
+[28Apr2025 01:06:29.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> XD
+[28Apr2025 01:06:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> seme olvido para q era
+[28Apr2025 01:06:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> CTM
+[28Apr2025 01:06:48.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> xd
+[28Apr2025 01:06:53.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> para q no estas e ndiscort
+[28Apr2025 01:07:13.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> andaba ocupado xd
+[28Apr2025 01:07:28.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Y hace rato revise y no estaba nadie así que no volví a checar
+[28Apr2025 01:09:01.609] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.247.200.12:56795] logged in with entity id 63253 at (111.93145719653208, 111.875, -106.2315567160814)
+[28Apr2025 01:09:01.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[28Apr2025 01:09:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Abilities -Enemy Step-           ]
+[28Apr2025 01:09:31.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Anonymity -Bamboo Light-]
+[28Apr2025 01:10:26.475] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3090ms or 61 ticks
+[28Apr2025 01:11:27.232] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3066ms or 61 ticks
+[28Apr2025 01:12:04.234] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3289ms or 65 ticks
+[28Apr2025 01:13:07.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 01:13:19.725] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3048ms or 60 ticks
