@@ -74,3 +74,9 @@
 [28Apr2025 01:25:09.948] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3058ms or 61 ticks
 [28Apr2025 01:25:25.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/348, l='ServerLevel[world]', x=92.80, y=91.46, z=-93.57] died, message: 'Villager was squished too much'
 [28Apr2025 01:30:41.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/414, l='ServerLevel[world]', x=69.50, y=90.00, z=-97.70] died, message: 'Librarian was slain by Zombie batu'
+[28Apr2025 01:35:32.418] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3031ms or 60 ticks
+[28Apr2025 01:35:34.791] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/367, l='ServerLevel[world]', x=67.30, y=90.00, z=-95.70] died, message: 'Librarian was slain by Zombie batu'
+[28Apr2025 01:35:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Abilities -Enemy Step-           ]
+[28Apr2025 01:36:18.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17549, l='ServerLevel[world]', x=92.85, y=91.82, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 01:39:34.279] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46305, l='ServerLevel[world]', x=92.79, y=91.03, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 01:42:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Local Brewery]
