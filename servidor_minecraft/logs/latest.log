@@ -124,3 +124,7 @@
 [28Apr2025 02:29:35.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/349, l='ServerLevel[world]', x=92.87, y=91.41, z=-93.70] died, message: 'Villager was squished too much'
 [28Apr2025 02:30:29.151] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3226ms or 64 ticks
 [28Apr2025 02:33:04.029] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3087ms or 61 ticks
+[28Apr2025 02:37:21.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[28Apr2025 02:37:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[28Apr2025 02:37:29.764] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3050ms or 61 ticks
+[28Apr2025 02:43:17.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71221, l='ServerLevel[world]', x=92.89, y=91.97, z=-93.30] died, message: 'Villager was squished too much'
