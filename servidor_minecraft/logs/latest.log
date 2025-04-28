@@ -7,3 +7,7 @@
 [28Apr2025 00:19:32.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was blown up by Creeper
 [28Apr2025 00:19:57.996] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3042ms or 60 ticks
 [28Apr2025 00:20:17.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/355, l='ServerLevel[world]', x=92.86, y=91.10, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 00:24:37.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/353, l='ServerLevel[world]', x=92.81, y=91.58, z=-93.58] died, message: 'Villager was squished too much'
+[28Apr2025 00:27:07.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/309, l='ServerLevel[world]', x=92.78, y=91.25, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 00:27:46.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3194, l='ServerLevel[world]', x=92.78, y=91.15, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 00:30:04.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43511, l='ServerLevel[world]', x=323.33, y=71.00, z=881.88] died, message: 'Villager was pummeled by ica_1016'
