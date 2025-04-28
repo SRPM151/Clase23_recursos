@@ -8558,6 +8558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_pillar_trim": {
     "criteria": {
       "has_jungle_pillar_trim": "2025-04-28 01:50:59 +0000"
@@ -8681,6 +8687,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-28 01:52:38 +0000"
     },
     "done": true
   },
@@ -9188,6 +9200,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-28 00:42:00 +0000"
@@ -9266,6 +9284,18 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2025-04-28 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
@@ -9275,6 +9305,12 @@
   "refurbished_furniture:recipes/decorations/black_toilet": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
     },
     "done": true
   },
@@ -9635,6 +9671,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-28 01:54:04 +0000"
     },
     "done": true
   },

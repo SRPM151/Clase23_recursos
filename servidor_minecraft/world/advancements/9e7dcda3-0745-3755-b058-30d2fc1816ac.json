@@ -6476,6 +6476,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-04-28 01:57:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-04-28 01:34:10 +0000"

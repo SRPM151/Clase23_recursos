@@ -89,3 +89,17 @@
 [28Apr2025 01:52:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Zombie Doctor]
 [28Apr2025 01:52:52.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48968, l='ServerLevel[world]', x=92.79, y=91.00, z=-93.70] died, message: 'Villager was squished too much'
 [28Apr2025 01:54:00.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/322, l='ServerLevel[world]', x=77.87, y=89.00, z=-86.50] died, message: 'Librarian was slain by Zombie batu'
+[28Apr2025 01:57:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [No Longer Short-Staffed]
+[28Apr2025 01:58:26.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Acolyte
+[28Apr2025 01:58:30.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14158, l='ServerLevel[world]', x=92.77, y=91.06, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 02:00:03.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[28Apr2025 02:00:03.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[28Apr2025 02:01:09.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:37059] logged in with entity id 90928 at (81.22533601432795, 90.0, -90.0535080398122)
+[28Apr2025 02:01:09.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[28Apr2025 02:01:14.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29985, l='ServerLevel[world]', x=92.89, y=91.00, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 02:01:29.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59429, l='ServerLevel[world]', x=92.85, y=91.96, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 02:01:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Acolyte
+[28Apr2025 02:02:21.273] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3238ms or 64 ticks
+[28Apr2025 02:02:24.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/359, l='ServerLevel[world]', x=77.50, y=90.00, z=-87.30] died, message: 'Librarian was slain by Zombie batu'
+[28Apr2025 02:03:08.031] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/87244, l='ServerLevel[world]', x=67.30, y=90.00, z=-95.50] died, message: 'Librarian was slain by Zombie batu'
+[28Apr2025 02:03:27.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Acolyte
