@@ -144,3 +144,7 @@
 [28Apr2025 03:11:26.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
 [28Apr2025 03:13:05.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.74.91.156:54455] logged in with entity id 128912 at (-540.6832802231385, 141.5, -93.33802217844702)
 [28Apr2025 03:13:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[28Apr2025 03:20:52.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AkujinPas[/127.158.127.9:36315] logged in with entity id 131535 at (103.90628888884675, 111.5625, -107.39915366350381)
+[28Apr2025 03:20:52.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
+[28Apr2025 03:22:14.081] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3388ms or 67 ticks
+[28Apr2025 03:23:43.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62938, l='ServerLevel[world]', x=92.75, y=91.03, z=-93.65] died, message: 'Villager was squished too much'
