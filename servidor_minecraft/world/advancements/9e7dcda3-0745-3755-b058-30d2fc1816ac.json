@@ -87,6 +87,7 @@
       "rocky_shrubland": "2025-04-27 07:42:37 +0000",
       "scrubland": "2025-04-23 07:15:08 +0000",
       "old_growth_woodland": "2025-04-23 08:07:20 +0000",
+      "prairie": "2025-04-28 04:33:07 +0000",
       "rainforest": "2025-04-28 03:57:47 +0000"
     },
     "done": false
@@ -263,6 +264,7 @@
       "apple": "2025-04-23 07:09:24 +0000",
       "bread": "2025-04-24 06:48:39 +0000",
       "rotten_flesh": "2025-04-23 07:41:45 +0000",
+      "melon_slice": "2025-04-28 04:30:39 +0000",
       "cooked_chicken": "2025-04-23 07:12:53 +0000",
       "carrot": "2025-04-25 08:25:08 +0000"
     },
@@ -6697,6 +6699,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-04-28 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-04-28 04:30:33 +0000"
     },
     "done": true
   },

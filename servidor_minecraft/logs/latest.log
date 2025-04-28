@@ -187,3 +187,36 @@
 [28Apr2025 04:26:44.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
 [28Apr2025 04:26:56.462] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 99 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@207616b9
 [28Apr2025 04:27:36.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 04:27:54.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
+[28Apr2025 04:28:12.428] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 2 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@53227b9b
+[28Apr2025 04:28:16.828] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3256ms or 65 ticks
+[28Apr2025 04:28:17.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 04:28:42.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[28Apr2025 04:29:15.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[28Apr2025 04:29:38.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 04:30:00.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[28Apr2025 04:30:27.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 04:30:33.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Once Upon a Cave]
+[28Apr2025 04:33:13.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 04:33:30.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Apr2025 04:33:31.594] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3141ms or 62 ticks
+[28Apr2025 04:33:49.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[28Apr2025 04:34:07.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3150ms or 63 ticks behind
+[28Apr2025 04:34:25.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3179ms or 63 ticks behind
+[28Apr2025 04:34:44.447] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3059ms or 61 ticks
+[28Apr2025 04:35:05.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[28Apr2025 04:35:26.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Apr2025 04:35:31.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has reached the goal [The Cave That Time Forgot]
+[28Apr2025 04:35:45.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[28Apr2025 04:36:03.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3678ms or 73 ticks behind
+[28Apr2025 04:36:22.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
+[28Apr2025 04:36:40.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[28Apr2025 04:36:42.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Stay dead]
+[28Apr2025 04:36:48.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Source of Evil]
+[28Apr2025 04:36:59.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[28Apr2025 04:37:18.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3936ms or 78 ticks behind
+[28Apr2025 04:37:36.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3708ms or 74 ticks behind
+[28Apr2025 04:37:37.033] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3097ms or 61 ticks
+[28Apr2025 04:37:45.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Disconnected
+[28Apr2025 04:37:45.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[28Apr2025 04:37:55.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
