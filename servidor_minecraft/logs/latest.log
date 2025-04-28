@@ -177,3 +177,13 @@
 [28Apr2025 03:55:23.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Diamonds!]
 [28Apr2025 03:59:50.504] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3096ms or 61 ticks
 [28Apr2025 03:59:51.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 04:10:23.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10547, l='ServerLevel[world]', x=92.30, y=91.08, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 04:17:36.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Wild Crops]
+[28Apr2025 04:18:02.607] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3141ms or 62 ticks
+[28Apr2025 04:24:49.420] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3090ms or 61 ticks
+[28Apr2025 04:25:27.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 04:25:55.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Apr2025 04:26:18.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 04:26:44.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[28Apr2025 04:26:56.462] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 99 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@207616b9
+[28Apr2025 04:27:36.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind

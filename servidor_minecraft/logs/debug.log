@@ -6962,3 +6962,33 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [28Apr2025 03:59:51.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [28Apr2025 04:03:02.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 04:03:02.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:08:02.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:08:02.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:10:23.829] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10547, l='ServerLevel[world]', x=92.30, y=91.08, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 04:13:02.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:13:02.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:17:36.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Wild Crops]
+[28Apr2025 04:18:02.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:18:02.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:18:02.607] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3141ms or 62 ticks
+[28Apr2025 04:20:45.716] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 28 -48 -48 VisualFallingBlockEntity['Falling Deepslate'/157925, l='ServerLevel[world]', x=28.50, y=-56.00, z=-47.50]
+[28Apr2025 04:20:49.154] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 33 -51 -51 VisualFallingBlockEntity['Falling Deepslate'/157949, l='ServerLevel[world]', x=33.50, y=-53.00, z=-50.50]
+[28Apr2025 04:20:58.806] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 41 -48 -48 VisualFallingBlockEntity['Falling Deepslate'/157990, l='ServerLevel[world]', x=41.50, y=-56.00, z=-47.50]
+[28Apr2025 04:21:16.655] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 27 -58 -58 VisualFallingBlockEntity['Falling Deepslate'/158067, l='ServerLevel[world]', x=27.50, y=-54.00, z=-57.50]
+[28Apr2025 04:21:23.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 26 -62 -62 VisualFallingBlockEntity['Falling Deepslate'/158091, l='ServerLevel[world]', x=26.50, y=-57.00, z=-61.50]
+[28Apr2025 04:21:23.266] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 27 -61 -61 VisualFallingBlockEntity['Falling Deepslate'/158092, l='ServerLevel[world]', x=27.50, y=-58.00, z=-60.50]
+[28Apr2025 04:22:07.566] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:gravel} 65 -80 -80 VisualFallingBlockEntity['Falling Gravel'/158247, l='ServerLevel[world]', x=65.50, y=-57.00, z=-79.50]
+[28Apr2025 04:22:20.596] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 73 -82 -82 VisualFallingBlockEntity['Falling Deepslate'/158302, l='ServerLevel[world]', x=73.50, y=-55.00, z=-81.50]
+[28Apr2025 04:22:32.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 78 -79 -79 VisualFallingBlockEntity['Falling Deepslate'/158357, l='ServerLevel[world]', x=78.50, y=-58.00, z=-78.50]
+[28Apr2025 04:22:32.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 79 -78 -78 VisualFallingBlockEntity['Falling Deepslate'/158358, l='ServerLevel[world]', x=79.50, y=-57.00, z=-77.50]
+[28Apr2025 04:22:38.708] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 83 -80 -80 VisualFallingBlockEntity['Falling Deepslate'/158384, l='ServerLevel[world]', x=83.50, y=-56.00, z=-79.50]
+[28Apr2025 04:22:51.344] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 87 -81 -81 VisualFallingBlockEntity['Falling Deepslate'/158454, l='ServerLevel[world]', x=87.50, y=-54.00, z=-80.50]
+[28Apr2025 04:23:02.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 04:23:02.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 04:24:49.420] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3090ms or 61 ticks
+[28Apr2025 04:25:27.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 04:25:55.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Apr2025 04:26:18.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 04:26:44.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[28Apr2025 04:26:56.462] [Server thread/INFO] [Easy NPC/]: EasyNPCMenu created with containerId: 99 and data: de.markusbordihn.easynpc.data.screen.ScreenContainerData@207616b9
+[28Apr2025 04:27:36.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
