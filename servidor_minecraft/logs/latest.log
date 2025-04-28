@@ -1,3 +1,9 @@
 [28Apr2025 00:01:05.102] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
 [28Apr2025 00:02:00.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> me falta 1 flechero
 [28Apr2025 00:04:01.532] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3059ms or 61 ticks
+[28Apr2025 00:15:14.905] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3319ms or 66 ticks
+[28Apr2025 00:17:28.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/345, l='ServerLevel[world]', x=92.82, y=91.03, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 00:18:03.901] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/343, l='ServerLevel[world]', x=92.78, y=92.05, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 00:19:32.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was blown up by Creeper
+[28Apr2025 00:19:57.996] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3042ms or 60 ticks
+[28Apr2025 00:20:17.076] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/355, l='ServerLevel[world]', x=92.86, y=91.10, z=-93.30] died, message: 'Villager was squished too much'
