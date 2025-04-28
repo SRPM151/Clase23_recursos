@@ -8504,6 +8504,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-04-28 00:35:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
@@ -8816,6 +8822,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-04-28 00:36:27 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/agito": {
     "criteria": {
       "has_proudsoul": "2025-04-27 22:56:47 +0000"
@@ -8945,6 +8957,12 @@
   "refurbished_furniture:recipes/decorations/dark_range_hood": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-28 00:42:00 +0000"
     },
     "done": true
   },
