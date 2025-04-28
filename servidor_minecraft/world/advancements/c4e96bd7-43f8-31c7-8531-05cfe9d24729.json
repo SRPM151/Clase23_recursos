@@ -8966,6 +8966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-28 02:17:34 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/haunted_house": {
     "criteria": {
       "haunted_house": "2025-04-28 01:46:02 +0000"
