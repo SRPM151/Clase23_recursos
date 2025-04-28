@@ -4355,3 +4355,11 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [27Apr2025 23:57:03.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 23:58:27.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/334, l='ServerLevel[world]', x=92.30, y=91.18, z=-93.30] died, message: 'Villager was squished too much'
 [28Apr2025 00:01:05.102] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3043ms or 60 ticks
+[28Apr2025 00:02:00.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ica_1016> me falta 1 flechero
+[28Apr2025 00:02:03.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 00:02:03.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 00:04:01.532] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3059ms or 61 ticks
+[28Apr2025 00:07:03.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 00:07:03.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 00:12:03.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 00:12:03.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
