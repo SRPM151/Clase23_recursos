@@ -121,3 +121,6 @@
 [28Apr2025 02:16:30.405] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3007ms or 60 ticks
 [28Apr2025 02:17:05.315] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3100ms or 62 ticks
 [28Apr2025 02:22:33.597] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3216ms or 64 ticks
+[28Apr2025 02:29:35.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/349, l='ServerLevel[world]', x=92.87, y=91.41, z=-93.70] died, message: 'Villager was squished too much'
+[28Apr2025 02:30:29.151] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3226ms or 64 ticks
+[28Apr2025 02:33:04.029] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3087ms or 61 ticks
