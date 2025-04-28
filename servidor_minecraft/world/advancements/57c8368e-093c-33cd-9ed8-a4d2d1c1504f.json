@@ -63,9 +63,11 @@
       "minecraft:cherry_grove": "2025-04-25 04:59:00 +0000",
       "minecraft:birch_forest": "2025-04-27 04:46:21 +0000",
       "minecraft:windswept_hills": "2025-04-24 07:07:41 +0000",
+      "minecraft:bamboo_jungle": "2025-04-28 05:37:52 +0000",
       "minecraft:savanna_plateau": "2025-04-23 04:24:15 +0000",
       "minecraft:beach": "2025-04-23 08:46:00 +0000",
       "minecraft:stony_peaks": "2025-04-23 04:24:41 +0000",
+      "minecraft:dark_forest": "2025-04-28 05:35:43 +0000",
       "minecraft:sparse_jungle": "2025-04-25 04:47:39 +0000",
       "minecraft:river": "2025-04-23 04:13:51 +0000",
       "minecraft:lukewarm_ocean": "2025-04-24 10:38:42 +0000",
@@ -149,6 +151,7 @@
       "highland": "2025-04-24 07:18:02 +0000",
       "jade_cliffs": "2025-04-27 04:46:49 +0000",
       "wetland": "2025-04-24 07:18:54 +0000",
+      "clover_patch": "2025-04-28 05:34:18 +0000",
       "cold_desert": "2025-04-23 08:51:54 +0000",
       "old_growth_woodland": "2025-04-23 08:16:00 +0000",
       "maple_woods": "2025-04-25 05:06:09 +0000",
@@ -166,6 +169,7 @@
       "dune_beach": "2025-04-23 08:45:38 +0000",
       "seasonal_forest": "2025-04-24 09:01:59 +0000",
       "pasture": "2025-04-23 08:45:25 +0000",
+      "rocky_rainforest": "2025-04-28 05:37:39 +0000",
       "volcanic_plains": "2025-04-23 09:15:02 +0000",
       "lavender_field": "2025-04-23 08:50:19 +0000",
       "fir_clearing": "2025-04-23 08:51:35 +0000",
@@ -8088,6 +8092,18 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-28 04:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-04-28 05:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-04-28 05:27:23 +0000"
     },
     "done": true
   },

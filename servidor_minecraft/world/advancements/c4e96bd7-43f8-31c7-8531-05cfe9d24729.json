@@ -9754,5 +9754,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-28 05:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-28 05:45:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

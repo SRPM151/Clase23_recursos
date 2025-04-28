@@ -264,6 +264,7 @@
       "porkchop": "2025-04-24 06:26:38 +0000",
       "apple": "2025-04-23 07:09:24 +0000",
       "bread": "2025-04-24 06:48:39 +0000",
+      "golden_apple": "2025-04-28 05:16:25 +0000",
       "rotten_flesh": "2025-04-23 07:41:45 +0000",
       "melon_slice": "2025-04-28 04:30:39 +0000",
       "cooked_chicken": "2025-04-23 07:12:53 +0000",
@@ -2049,7 +2050,9 @@
       "minecraft:creeper": "2025-04-27 07:48:17 +0000",
       "minecraft:witch": "2025-04-27 07:58:10 +0000",
       "minecraft:piglin": "2025-04-27 08:30:25 +0000",
-      "minecraft:zombie": "2025-04-23 07:18:18 +0000"
+      "minecraft:enderman": "2025-04-28 05:16:48 +0000",
+      "minecraft:zombie": "2025-04-23 07:18:18 +0000",
+      "minecraft:drowned": "2025-04-28 05:19:07 +0000"
     },
     "done": false
   },
@@ -6511,6 +6514,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-04-28 05:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-04-28 03:55:23 +0000"
@@ -6664,6 +6673,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2025-04-28 04:36:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-04-28 05:18:36 +0000"
     },
     "done": true
   },
