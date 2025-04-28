@@ -128,3 +128,14 @@
 [28Apr2025 02:37:21.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
 [28Apr2025 02:37:29.764] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3050ms or 61 ticks
 [28Apr2025 02:43:17.481] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71221, l='ServerLevel[world]', x=92.89, y=91.97, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 02:46:51.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.247.200.12:55601] logged in with entity id 121003 at (80.13282801294439, 123.0, -107.40078138570473)
+[28Apr2025 02:46:51.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[28Apr2025 02:49:41.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[28Apr2025 02:49:41.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[28Apr2025 03:03:07.676] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/55977, l='ServerLevel[world]', x=92.73, y=91.29, z=-93.70] died, message: 'Villager was squished too much'
+[28Apr2025 03:03:10.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.74.91.156:46561] logged in with entity id 125869 at (303.1651899994464, 64.0, 1012.4370758970067)
+[28Apr2025 03:03:10.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
+[28Apr2025 03:03:28.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/84378, l='ServerLevel[world]', x=92.88, y=91.00, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 03:04:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Vuelvo voy a cenar igual
+[28Apr2025 03:04:30.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
+[28Apr2025 03:04:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
