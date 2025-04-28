@@ -8498,6 +8498,180 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-04-27 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-04-27 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-04-27 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 22:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-27 22:57:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_wood": {
+    "criteria": {
+      "has_wooden_sword": "2025-04-27 22:57:35 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/slashblade_tofu_metal": {
+    "criteria": {
+      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-04-27 22:58:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/slashblade_tofu_ishi": {
+    "criteria": {
+      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/feather_falling": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:00:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/root": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:00:25 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:00:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:00:28 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:00:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-04-27 23:01:12 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-27 23:01:15 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-04-27 23:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-27 23:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-27 23:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-27 23:06:04 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_bamboo": {
+    "criteria": {
+      "crafting": "2025-04-27 23:09:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2025-04-27 23:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-27 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-27 23:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-27 23:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-27 23:30:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
@@ -8510,81 +8684,15 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/fox_black": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-04-28 00:35:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/slashblade_tofu_metal": {
-    "criteria": {
-      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-04-28 01:42:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-04-27 23:30:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2025-04-28 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-04-28 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_pillar_trim": {
-    "criteria": {
-      "has_jungle_pillar_trim": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_bamboo": {
-    "criteria": {
-      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_bamboo": {
-    "criteria": {
-      "crafting": "2025-04-27 23:09:05 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_diamond": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
     },
     "done": true
   },
@@ -8606,27 +8714,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_golden": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
@@ -8642,63 +8732,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-04-28 01:48:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_side_table": {
-    "criteria": {
-      "has_jungle_side_table": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2025-04-28 01:44:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-27 22:57:25 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/orotiagito_sealed": {
-    "criteria": {
-      "has_proudsoul": "2025-04-27 22:56:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-04-28 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
-    "criteria": {
-      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8720,45 +8756,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/snow_crow": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/yuzukitukumo": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-04-28 01:39:39 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/katana": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "slashblade:enchantment/feather_falling": {
-    "criteria": {
-      "customtrigger": "2025-04-27 23:00:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
-    "criteria": {
-      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8768,45 +8768,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-04-28 01:28:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
-    "criteria": {
-      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
-    "criteria": {
-      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/muramasa": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -8828,21 +8798,9 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/rodai_wooden": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihilul": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -8852,9 +8810,567 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
     "criteria": {
-      "has_ink_sac": "2025-04-27 23:29:16 +0000"
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_black": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_diamond": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_golden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/katana": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_wooden": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_iron": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/tachi": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_stone": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/ruby": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_silverbamboo": {
+    "criteria": {
+      "crafting": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/rodai_netherite": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/fox_white": {
+    "criteria": {
+      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/sabigatana": {
+    "criteria": {
+      "has_proudsoul_ingot": "2025-04-27 23:36:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul_ingot": {
+    "criteria": {
+      "BrokenBlade": "2025-04-27 23:36:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/blue": {
+    "criteria": {
+      "has_proudsoul_ingot": "2025-04-27 23:36:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/snow_crow": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/yuzukitukumo": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/muramasa": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilul": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/frosty_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilex": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilbx": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/laemmle": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/moonlight_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihil": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/green_mist": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/aquablaze": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/crimsoncherry": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/yukari": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/frost_wolf": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-04-28 00:35:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-04-28 00:36:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-28 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-28 01:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-28 01:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-28 01:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-28 01:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-28 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-28 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-28 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-04-28 01:44:20 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-04-28 01:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-28 01:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-28 01:47:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-28 01:48:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-04-28 01:48:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-04-28 01:48:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8876,45 +9392,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/frosty_cherry": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_silverbamboo": {
-    "criteria": {
-      "has_slashblade_bamboo": "2025-04-27 23:09:05 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_iron": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/sabigatana": {
-    "criteria": {
-      "has_proudsoul_ingot": "2025-04-27 23:36:07 +0000"
     },
     "done": true
   },
@@ -8930,63 +9410,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihilex": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihilbx": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2025-04-28 02:17:34 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/haunted_house": {
-    "criteria": {
-      "haunted_house": "2025-04-28 01:46:02 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_bath": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "skeleton_creeper": "2025-04-27 23:01:12 +0000"
     },
     "done": true
   },
@@ -8996,39 +9422,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-27 22:57:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-04-28 01:42:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_corner_trim": {
     "criteria": {
       "has_jungle_corner_trim": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/kick_jump": {
-    "criteria": {
-      "customtrigger": "2025-04-28 00:36:27 +0000"
     },
     "done": true
   },
@@ -9044,21 +9440,9 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/agito": {
-    "criteria": {
-      "has_proudsoul": "2025-04-27 22:56:47 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_shelf": {
     "criteria": {
       "has_jungle_shelf": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/tachi": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
     },
     "done": true
   },
@@ -9068,123 +9452,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:material/proudsoul_ingot": {
-    "criteria": {
-      "BrokenBlade": "2025-04-27 23:36:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/laemmle": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/moonlight_cherry": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/rodai_stone": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/ruby": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2025-04-27 23:01:15 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_silverbamboo": {
-    "criteria": {
-      "crafting": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_a": {
-    "criteria": {
-      "customtrigger": "2025-04-27 23:00:38 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_b": {
-    "criteria": {
-      "customtrigger": "2025-04-27 23:39:08 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_c": {
-    "criteria": {
-      "customtrigger": "2025-04-27 23:37:24 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/nihil": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
     },
     "done": true
   },
@@ -9194,135 +9464,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_range_hood": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-04-28 00:42:00 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/green_mist": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_fridge": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/tagayasan": {
-    "criteria": {
-      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/bamboo_chimes": {
-    "criteria": {
-      "has_planks": "2025-04-27 23:06:04 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/enemy_step": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:09:08 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-04-28 01:48:09 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/black_basin": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade:enchantment/root": {
-    "criteria": {
-      "customtrigger": "2025-04-27 23:00:25 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/wine_press": {
-    "criteria": {
-      "has_iron_trapdoor": "2025-04-28 01:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_toilet": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/coarse_dirt_slab": {
-    "criteria": {
-      "has_coarse_dirt": "2025-04-28 02:02:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
     },
     "done": true
   },
@@ -9338,18 +9488,6 @@
     },
     "done": true
   },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2025-04-27 23:00:28 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2025-04-27 23:00:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-28 01:50:59 +0000"
@@ -9362,39 +9500,9 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/aquablaze": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-28 01:42:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/crimsoncherry": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/blue": {
-    "criteria": {
-      "has_proudsoul_ingot": "2025-04-27 23:36:07 +0000"
     },
     "done": true
   },
@@ -9404,57 +9512,9 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/slashblade_white": {
-    "criteria": {
-      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
     "criteria": {
       "has_jungle_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/yukari": {
-    "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_stove": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-04-28 01:48:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-04-28 01:28:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-04-28 01:42:32 +0000"
     },
     "done": true
   },
@@ -9464,15 +9524,69 @@
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/fluorescent_bar": {
+  "handcrafted:recipes/misc/jungle_couch": {
     "criteria": {
-      "has_proudsoul": "2025-04-27 22:56:47 +0000"
+      "has_jungle_couch": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
-  "slashblade:recipes/combat/rodai_netherite": {
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
     "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+      "has_jungle_fancy_bed": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
@@ -9482,87 +9596,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
-    "criteria": {
-      "has_kitchen_hood_pipe": "2025-04-28 01:52:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/fox_white": {
-    "criteria": {
-      "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-04-28 01:47:39 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/one_way_glass": {
-    "criteria": {
-      "has_wood": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "slashblade:blade/s_wood": {
-    "criteria": {
-      "crafting": "2025-04-27 22:58:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_couch": {
-    "criteria": {
-      "has_jungle_couch": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "slashblade:recipes/combat/slashblade_wood": {
-    "criteria": {
-      "has_wooden_sword": "2025-04-27 22:57:35 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_fancy_bed": {
-    "criteria": {
-      "has_jungle_fancy_bed": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -9578,105 +9620,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-04-27 23:30:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
-    },
-    "done": true
-  },
-  "slashblade_addon:recipes/combat/slashblade_tofu_ishi": {
-    "criteria": {
-      "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-04-27 23:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-04-27 23:30:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-04-27 23:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
-    "criteria": {
-      "has_black_dye": "2025-04-27 23:34:54 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/jungle_counter": {
-    "criteria": {
-      "has_jungle_counter": "2025-04-28 01:50:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-04-27 23:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-04-28 01:47:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-04-27 23:34:54 +0000"
     },
     "done": true
   },
@@ -9686,21 +9632,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-04-28 01:54:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/frost_wolf": {
+  "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
-      "has_slashblade": "2025-04-27 23:44:10 +0000"
+      "has_kitchen_hood": "2025-04-28 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-04-28 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-28 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-28 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2025-04-28 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-04-28 02:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-28 02:17:34 +0000"
     },
     "done": true
   },

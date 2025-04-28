@@ -139,3 +139,8 @@
 [28Apr2025 03:04:08.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AkujinPas> Vuelvo voy a cenar igual
 [28Apr2025 03:04:30.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AkujinPas lost connection: Disconnected
 [28Apr2025 03:04:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas left the game
+[28Apr2025 03:07:29.764] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3036ms or 60 ticks
+[28Apr2025 03:11:26.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ica_1016 lost connection: Timed out
+[28Apr2025 03:11:26.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 left the game
+[28Apr2025 03:13:05.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ica_1016[/127.74.91.156:54455] logged in with entity id 128912 at (-540.6832802231385, 141.5, -93.33802217844702)
+[28Apr2025 03:13:05.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 joined the game
