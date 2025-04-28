@@ -292,3 +292,11 @@
 [28Apr2025 05:02:59.981] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3110ms or 62 ticks
 [28Apr2025 05:04:49.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Piglin Brute
 [28Apr2025 05:06:13.111] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3030ms or 60 ticks
+[28Apr2025 05:10:11.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90628, l='ServerLevel[world]', x=92.82, y=91.18, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 05:10:32.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Piglin Brute
+[28Apr2025 05:11:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was slain by Deepling Brute
+[28Apr2025 05:11:57.412] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3018ms or 60 ticks
+[28Apr2025 05:12:57.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79932, l='ServerLevel[world]', x=92.72, y=91.03, z=-93.30] died, message: 'Villager was squished too much'
+[28Apr2025 05:14:22.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was blown up by Creeper
+[28Apr2025 05:15:15.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 was slain by Piglin Brute
+[28Apr2025 05:17:22.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Masquerade]
