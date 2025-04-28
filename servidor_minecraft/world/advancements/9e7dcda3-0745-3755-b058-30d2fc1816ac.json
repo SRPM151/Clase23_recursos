@@ -6464,6 +6464,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-04-28 01:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-04-28 01:39:47 +0000"
@@ -6473,6 +6479,12 @@
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-04-28 01:34:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-28 01:47:37 +0000"
     },
     "done": true
   },

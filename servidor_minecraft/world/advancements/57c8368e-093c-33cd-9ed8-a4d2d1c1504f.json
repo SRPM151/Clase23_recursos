@@ -7824,6 +7824,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:50:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-28 00:26:45 +0000"
@@ -7839,6 +7845,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-04-28 00:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-04-28 01:52:20 +0000"
     },
     "done": true
   },

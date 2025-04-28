@@ -782,6 +782,7 @@
       "suspicious_stew": "2025-04-26 06:37:23 +0000",
       "golden_carrot": "2025-04-26 07:03:14 +0000",
       "cooked_chicken": "2025-04-23 05:44:52 +0000",
+      "cod": "2025-04-28 01:43:00 +0000",
       "carrot": "2025-04-23 04:40:48 +0000"
     },
     "done": false
@@ -8551,6 +8552,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-04-28 01:52:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/slashblade_bamboo": {
     "criteria": {
       "has_slashblade_wood": "2025-04-27 22:58:45 +0000"
@@ -8587,6 +8600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
@@ -8596,6 +8615,12 @@
   "slashblade:recipes/combat/rodai_golden": {
     "criteria": {
       "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
@@ -8611,9 +8636,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-04-28 01:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-04-28 01:44:20 +0000"
     },
     "done": true
   },
@@ -8626,6 +8675,18 @@
   "slashblade:recipes/combat/orotiagito_sealed": {
     "criteria": {
       "has_proudsoul": "2025-04-27 22:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8683,9 +8744,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8695,9 +8768,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_cabinetry": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_desk": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8761,6 +8846,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/frosty_cherry": {
     "criteria": {
       "has_slashblade": "2025-04-27 23:44:10 +0000"
@@ -8770,6 +8873,12 @@
   "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8797,9 +8906,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
@@ -8815,9 +8942,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-04-28 01:46:02 +0000"
     },
     "done": true
   },
@@ -8833,6 +8972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
@@ -8845,9 +8990,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-28 01:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8857,15 +9014,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/agito": {
     "criteria": {
       "has_proudsoul": "2025-04-27 22:56:47 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/tachi": {
     "criteria": {
       "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8884,6 +9065,12 @@
   "slashblade:material/proudsoul_ingot": {
     "criteria": {
       "BrokenBlade": "2025-04-27 23:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
@@ -8926,6 +9113,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -8977,6 +9170,12 @@
     },
     "done": true
   },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
@@ -8992,6 +9191,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-28 00:42:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -9031,6 +9236,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-04-28 01:48:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
@@ -9040,6 +9251,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_basin": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -9061,6 +9278,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_b": {
     "criteria": {
       "customtrigger": "2025-04-27 23:00:28 +0000"
@@ -9073,15 +9302,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/aquablaze": {
     "criteria": {
       "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-28 01:42:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -9094,6 +9347,12 @@
   "slashblade_addon:recipes/combat/blue": {
     "criteria": {
       "has_proudsoul_ingot": "2025-04-27 23:36:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_drawer": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -9115,6 +9374,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/yukari": {
     "criteria": {
       "has_slashblade": "2025-04-27 23:44:10 +0000"
@@ -9127,9 +9392,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-04-28 01:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-28 01:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-28 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -9142,6 +9425,18 @@
   "slashblade:recipes/combat/rodai_netherite": {
     "criteria": {
       "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-04-28 01:52:18 +0000"
     },
     "done": true
   },
@@ -9163,9 +9458,21 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-28 01:47:39 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/one_way_glass": {
     "criteria": {
       "has_wood": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
@@ -9181,9 +9488,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-04-28 01:50:59 +0000"
     },
     "done": true
   },
@@ -9193,9 +9512,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-27 23:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },
@@ -9229,6 +9578,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_jungle_planks": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-04-27 23:30:31 +0000"
@@ -9253,15 +9608,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-04-28 01:50:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-27 23:06:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-28 01:47:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-28 01:51:53 +0000"
     },
     "done": true
   },

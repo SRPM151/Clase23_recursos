@@ -4907,3 +4907,16 @@ java.lang.NullPointerException: Cannot invoke "mods.flammpfeil.slashblade.regist
 [28Apr2025 01:42:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Local Brewery]
 [28Apr2025 01:42:21.167] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Apr2025 01:42:21.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 01:46:02.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Invitation to the Tea Party]
+[28Apr2025 01:47:21.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 01:47:21.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 01:47:25.685] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[28Apr2025 01:47:37.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Magery]
+[28Apr2025 01:47:39.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ica_1016 has made the advancement [Spooky Scary Skeleton]
+[28Apr2025 01:50:31.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Abilities -Enemy Step-           ]
+[28Apr2025 01:50:54.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was shown the way of the light by AkujinPas
+[28Apr2025 01:52:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has reached the goal [Zombie Doctor]
+[28Apr2025 01:52:21.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Apr2025 01:52:21.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Apr2025 01:52:52.831] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48968, l='ServerLevel[world]', x=92.79, y=91.00, z=-93.70] died, message: 'Villager was squished too much'
+[28Apr2025 01:54:00.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/322, l='ServerLevel[world]', x=77.87, y=89.00, z=-86.50] died, message: 'Librarian was slain by Zombie batu'
