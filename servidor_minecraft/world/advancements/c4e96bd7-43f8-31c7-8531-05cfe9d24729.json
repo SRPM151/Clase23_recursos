@@ -8624,6 +8624,18 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/snow_crow": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/yuzukitukumo": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-27 23:34:54 +0000"
@@ -8660,6 +8672,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/muramasa": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
@@ -8690,6 +8708,12 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/nihilul": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
@@ -8699,6 +8723,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-04-27 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/frosty_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -8735,6 +8765,18 @@
   "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilex": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihilbx": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -8804,6 +8846,18 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/laemmle": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/moonlight_cherry": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/rodai_stone": {
     "criteria": {
       "has_slashblade_silverbamboo": "2025-04-27 23:35:05 +0000"
@@ -8846,9 +8900,27 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-04-27 23:37:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/nihil": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -8873,6 +8945,12 @@
   "refurbished_furniture:recipes/decorations/dark_range_hood": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/green_mist": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -8942,9 +9020,21 @@
     },
     "done": true
   },
+  "slashblade_addon:recipes/combat/aquablaze": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/crimsoncherry": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -8969,6 +9059,12 @@
   "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/yukari": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
@@ -9107,6 +9203,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/frost_wolf": {
+    "criteria": {
+      "has_slashblade": "2025-04-27 23:44:10 +0000"
     },
     "done": true
   },
