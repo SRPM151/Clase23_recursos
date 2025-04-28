@@ -148,3 +148,24 @@
 [28Apr2025 03:20:52.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas joined the game
 [28Apr2025 03:22:14.081] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3388ms or 67 ticks
 [28Apr2025 03:23:43.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62938, l='ServerLevel[world]', x=92.75, y=91.03, z=-93.65] died, message: 'Villager was squished too much'
+[28Apr2025 03:26:40.138] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3050ms or 61 ticks
+[28Apr2025 03:28:38.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.247.200.12:44805] logged in with entity id 135826 at (80.13282801294439, 123.0, -107.40078138570473)
+[28Apr2025 03:28:38.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[28Apr2025 03:28:54.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Apr2025 03:29:11.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[28Apr2025 03:29:30.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 03:29:47.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[28Apr2025 03:30:09.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 03:30:31.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 03:30:50.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 03:31:07.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[28Apr2025 03:31:26.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Apr2025 03:31:45.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Apr2025 03:31:46.604] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3013ms or 60 ticks
+[28Apr2025 03:32:02.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[28Apr2025 03:32:21.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 03:32:40.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 03:32:58.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[28Apr2025 03:33:45.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid was zapped to death by AkujinPas
+[28Apr2025 03:35:05.289] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3083ms or 61 ticks
+[28Apr2025 03:35:43.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid fell from a high place
