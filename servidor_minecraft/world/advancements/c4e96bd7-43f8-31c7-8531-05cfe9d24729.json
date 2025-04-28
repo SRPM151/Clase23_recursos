@@ -8677,6 +8677,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-28 01:28:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
     "criteria": {
       "has_black_dye": "2025-04-27 23:34:54 +0000"
@@ -9106,6 +9112,12 @@
   "refurbished_furniture:recipes/decorations/dark_stove": {
     "criteria": {
       "has_dye": "2025-04-27 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-28 01:28:45 +0000"
     },
     "done": true
   },

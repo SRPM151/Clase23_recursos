@@ -67,3 +67,10 @@
 [28Apr2025 01:20:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Abilities -Kick Jump-            ]
 [28Apr2025 01:21:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Blade Arts -Combo B-              ]
 [28Apr2025 01:23:04.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Apr2025 01:24:56.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid lost connection: Disconnected
+[28Apr2025 01:24:56.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid left the game
+[28Apr2025 01:25:09.658] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lex_Ssuid[/127.247.200.12:57929] logged in with entity id 77950 at (110.96605094212775, 111.5625, -108.30810944778815)
+[28Apr2025 01:25:09.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid joined the game
+[28Apr2025 01:25:09.948] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3058ms or 61 ticks
+[28Apr2025 01:25:25.579] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/348, l='ServerLevel[world]', x=92.80, y=91.46, z=-93.57] died, message: 'Villager was squished too much'
+[28Apr2025 01:30:41.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/414, l='ServerLevel[world]', x=69.50, y=90.00, z=-97.70] died, message: 'Librarian was slain by Zombie batu'

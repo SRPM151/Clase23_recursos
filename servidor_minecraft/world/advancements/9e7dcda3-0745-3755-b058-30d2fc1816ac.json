@@ -6302,6 +6302,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_silverbamboo": {
+    "criteria": {
+      "has_slashblade_bamboo": "2025-04-28 01:09:31 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/snow_crow": {
     "criteria": {
       "has_slashblade": "2025-04-28 01:17:00 +0000"
@@ -6311,12 +6317,6 @@
   "slashblade:recipes/combat/yuzukitukumo": {
     "criteria": {
       "has_slashblade": "2025-04-28 01:17:00 +0000"
-    },
-    "done": true
-  },
-  "slashblade:enchantment/feather_falling": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:19:08 +0000"
     },
     "done": true
   },
@@ -6338,12 +6338,6 @@
     },
     "done": true
   },
-  "slashblade:recipes/combat/slashblade_silverbamboo": {
-    "criteria": {
-      "has_slashblade_bamboo": "2025-04-28 01:09:31 +0000"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/nihilex": {
     "criteria": {
       "has_slashblade": "2025-04-28 01:17:00 +0000"
@@ -6353,12 +6347,6 @@
   "slashblade_addon:recipes/combat/nihilbx": {
     "criteria": {
       "has_slashblade": "2025-04-28 01:17:00 +0000"
-    },
-    "done": true
-  },
-  "slashblade:abilities/kick_jump": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:20:41 +0000"
     },
     "done": true
   },
@@ -6374,18 +6362,6 @@
     },
     "done": true
   },
-  "slashblade:arts/combo_a": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:19:10 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_b": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:21:48 +0000"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/nihil": {
     "criteria": {
       "has_slashblade": "2025-04-28 01:17:00 +0000"
@@ -6395,24 +6371,6 @@
   "slashblade_addon:recipes/combat/green_mist": {
     "criteria": {
       "has_slashblade": "2025-04-28 01:17:00 +0000"
-    },
-    "done": true
-  },
-  "slashblade:enchantment/root": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:19:08 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:19:13 +0000"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2025-04-28 01:19:08 +0000"
     },
     "done": true
   },
@@ -6437,6 +6395,48 @@
   "slashblade_addon:recipes/combat/frost_wolf": {
     "criteria": {
       "has_slashblade": "2025-04-28 01:17:00 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/feather_falling": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:19:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/root": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:19:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:19:08 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:19:10 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:19:13 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:20:41 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-04-28 01:21:48 +0000"
     },
     "done": true
   },
