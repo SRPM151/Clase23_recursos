@@ -67,6 +67,7 @@
       "minecraft:lush_caves": "2025-04-27 03:55:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-27 07:46:17 +0000",
       "minecraft:flower_forest": "2025-04-23 07:02:36 +0000",
+      "minecraft:deep_dark": "2025-04-28 03:51:32 +0000",
       "minecraft:meadow": "2025-04-23 07:07:11 +0000",
       "minecraft:savanna": "2025-04-23 07:15:06 +0000",
       "minecraft:plains": "2025-04-23 07:01:07 +0000"
@@ -85,7 +86,8 @@
       "shrubland": "2025-04-23 07:02:23 +0000",
       "rocky_shrubland": "2025-04-27 07:42:37 +0000",
       "scrubland": "2025-04-23 07:15:08 +0000",
-      "old_growth_woodland": "2025-04-23 08:07:20 +0000"
+      "old_growth_woodland": "2025-04-23 08:07:20 +0000",
+      "rainforest": "2025-04-28 03:57:47 +0000"
     },
     "done": false
   },
@@ -6494,6 +6496,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-28 03:36:30 +0000"
@@ -6506,6 +6526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-28 03:36:30 +0000"
@@ -6515,6 +6541,18 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-28 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
     },
     "done": true
   },
@@ -6560,15 +6598,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-28 03:36:30 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-28 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-28 03:55:23 +0000"
     },
     "done": true
   },

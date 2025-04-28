@@ -172,3 +172,8 @@
 [28Apr2025 03:42:42.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lex_Ssuid moved wrongly!
 [28Apr2025 03:44:11.276] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/93772, l='ServerLevel[world]', x=92.81, y=91.33, z=-93.70] died, message: 'Villager was squished too much'
 [28Apr2025 03:46:17.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas has made the advancement [Hidden in the Depths]
+[28Apr2025 03:52:01.330] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3078ms or 61 ticks
+[28Apr2025 03:54:04.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Apr2025 03:55:23.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Diamonds!]
+[28Apr2025 03:59:50.504] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3096ms or 61 ticks
+[28Apr2025 03:59:51.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
