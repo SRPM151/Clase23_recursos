@@ -38,3 +38,32 @@
 [28Apr2025 01:12:04.234] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3289ms or 65 ticks
 [28Apr2025 01:13:07.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [28Apr2025 01:13:19.725] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3048ms or 60 ticks
+[28Apr2025 01:14:05.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[28Apr2025 01:14:34.563] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3071ms or 61 ticks
+[28Apr2025 01:14:40.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Apr2025 01:15:20.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[28Apr2025 01:15:56.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Apr2025 01:16:40.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Apr2025 01:18:16.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Apr2025 01:18:17.715] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3068ms or 61 ticks
+[28Apr2025 01:19:08.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Ex Enchantment Effect]
+[28Apr2025 01:19:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Slow Fall]
+[28Apr2025 01:19:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Blade Arts -Aerial Rave A-       ]
+[28Apr2025 01:19:10.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Blade Arts -Combo A-              ]
+[28Apr2025 01:19:13.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Blade Arts -Aerial Rave B-       ]
+[28Apr2025 01:19:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AkujinPas fell from a high place
+[28Apr2025 01:19:35.240] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3173ms or 63 ticks
+[28Apr2025 01:19:40.736] [Worker-Main-164/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1927, y=55, z=337}
+[28Apr2025 01:19:41.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.3126051266985499
+[28Apr2025 01:19:42.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.33294903685358435
+[28Apr2025 01:19:42.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.2531280502893125
+[28Apr2025 01:19:42.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.2531714961125715
+[28Apr2025 01:19:43.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.2743411817968777
+[28Apr2025 01:19:43.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.2955102949273609
+[28Apr2025 01:19:44.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.31667940684690166
+[28Apr2025 01:19:44.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.32166193275229205
+[28Apr2025 01:19:45.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Lex_Ssuid) moved wrongly! 0.25491662623556977
+[28Apr2025 01:19:48.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[28Apr2025 01:20:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Abilities -Kick Jump-            ]
+[28Apr2025 01:21:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lex_Ssuid has made the advancement [Blade Arts -Combo B-              ]
+[28Apr2025 01:23:04.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
