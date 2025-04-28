@@ -87,6 +87,7 @@
       "rocky_shrubland": "2025-04-27 07:42:37 +0000",
       "scrubland": "2025-04-23 07:15:08 +0000",
       "old_growth_woodland": "2025-04-23 08:07:20 +0000",
+      "pasture": "2025-04-28 04:35:16 +0000",
       "prairie": "2025-04-28 04:33:07 +0000",
       "rainforest": "2025-04-28 03:57:47 +0000"
     },
@@ -6636,6 +6637,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-04-28 04:36:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-28 03:55:23 +0000"
@@ -6651,6 +6658,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-28 03:36:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-28 04:36:48 +0000"
     },
     "done": true
   },
@@ -6699,6 +6712,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-04-28 04:13:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-04-28 04:35:31 +0000"
     },
     "done": true
   },
